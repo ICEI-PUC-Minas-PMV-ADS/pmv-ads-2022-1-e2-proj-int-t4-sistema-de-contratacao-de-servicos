@@ -1,12 +1,15 @@
-# TÍTULO DO PROJETO
+# Sistema de contratação de serviços 
 
 * Tecnologia em Análise e Desenvolvimento de Sistemas
 
-* Projeto: Desenvolvimento de uma Aplicação Interativa.
+* Projeto: Desenvolvimento de uma Aplicação Interativa
 
-`SEMESTRE`
+`Primeiro semestre Segundo periodo`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Muitas pessoas têm a necessidade de realizar diferentes tipos de reparos e serviços em sua residência, desde problemas no encanamento, limpeza e instalação de um ar-condicionado split, pintura, montagem de móveis, entre outros tipos de serviços ou manutenção. Em algumas situações são necessários serviços especializados, exigindo, assim, a contratação de um profissional qualificado e reconhecido pelo bom serviço.
+Por outro lado, existem profissionais que desejam aumentar a sua clientela. Por isso buscam anunciar os seus serviços em sites e ferramentas que visam aproximar os potenciais cliente de sua região.
+Diante desta perspectiva, queremos criar uma plataforma em que os profissionais podem se cadastrarem e oferecerem os seus serviços de forma que eles podem chegar aos potenciais clientes. Da mesma, as pessoas que precisam de um serviço para o seu lar, poderiam se cadastrar e localizar os profissionais que poderiam atendê-las.
+Além disso, a plataforma funcionaria de forma colaborativa oferecendo condições para que o cliente e o profissional avaliassem um ao outro, e, assim, prover um rank de reputação buscando beneficiar sempre os melhores clientes e profissionais mais bem avaliados.
 
 ## Integrantes
 
