@@ -1,8 +1,8 @@
 # TÍTULO DO PROJETO
 
- Tecnologia em Análise e Desenvolvimento de Sistemas
+* Tecnologia em Análise e Desenvolvimento de Sistemas
 
-Projeto: Desenvolvimento de uma Aplicação Interativa.
+* Projeto: Desenvolvimento de uma Aplicação Interativa.
 
 `SEMESTRE`
 
@@ -13,12 +13,12 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Nome completo do aluno 1
 * Nome completo do aluno 2
 * Nome completo do aluno 3
-Moisés Hastenraiter Da Silva
+* Moisés Hastenraiter Da Silva
 
 
 ## Orientador
 
-Bernardo Jeunon de Alencar
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 
