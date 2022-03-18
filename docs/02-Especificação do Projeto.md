@@ -5,7 +5,7 @@ A especificação do projeto e os detalhes mais importantes a serem abordados ne
 ## Personas
 As personas que ajudaram na criação do processo de entendimento do problema são apresentadas que se seguem. 
 
-##1 Nome: Carloos Alberto Silva
+# Nome: Carloos Alberto Silva
 Idade: 65 anos
 Ocupação: Aposentado
 Aplicativos: Facebook, Instagram, WhatsApp
@@ -13,7 +13,7 @@ Motivações: Ter um reparo com eficiência e qualidade nas instalações hidrá
 Frustações: Problema na instalação hidráulica que resulta em vazamento de água. 
 Hobbies, Historias: Viajar, Dançar forró (pé de serra).
 
-#2 Nome: José Carlos
+# Nome: José Carlos
 Idade: 25 anos
 Ocupação: Bombeiro hidráulico e Eletricista.
 Aplicativos: Facebook, Instagram, WhatsApp
@@ -21,7 +21,7 @@ Motivações: Prestar serviços com qualidade, Adquirir novos Clientes e novas e
 Frustações:Dificuldade em captar novos clientes para seu negócio, não recebimento pelo serviço prestado
 Hobbies, Historias: Ir ao cinema, ajudar uma ONG.
 
-#3 Nome: Rafael Silva 
+# Nome: Rafael Silva 
 Idade: 49 anos
 Ocupação: Administrador do sistema
 Aplicativos: Telegram, Facebook, Instagram, MYSQLservar, Visual code, .NET, 
@@ -29,7 +29,7 @@ Motivações: Administrar o sistema fazer correções de bugs para garantir a qu
 Frustações: A não funcionalidade do sistema. 
 Hobbies, Historias: Fazer trilha, Tocar violão. 
 
-#4 Nome: Ana Clara 
+# Nome: Ana Clara 
 Idade: 40 anos
 Ocupação: Dona de casa
 Aplicativos: WhatsApp 
@@ -37,7 +37,7 @@ Motivações: Montagem da nova estante, rapidez e qualidade e bom acabamento
 Frustações: Não conseguir bom montador dentro do curto espaço de tempo. 
 Hobbies, Historias: Ver series, Se divertir com a família. 
 
-#5 Nome: André Araújo
+# Nome: André Araújo
 Idade: 35 anos
 Ocupação: Montador de moveis
 Aplicativos: WhatsApp, Facebook ,Instagram
@@ -45,7 +45,7 @@ Motivações: Prestar serviços com qualidade, Adquirir novos Clientes e novas e
 Frustações: Dificuldade em captar novos clientes para seu negócio, não recebimento pelo serviço prestado
 Hobbies, Historias: curtir com a família, viajar, Fazer exercícios físicos na acadêmica
 
-#6 Nome: Julia Maria 
+# Nome: Julia Maria 
 Idade: 42 anos
 Ocupação: Advogada
 Aplicativos: WhatsApp, Facebook, Instagram 
@@ -53,7 +53,7 @@ Motivações: Babá com boas recomendações, sua filha bem cuidada enquanto rea
 Frustações: Não poder comparecer ao compromisso no horário marcado
 Hobbies, Historias: Passeios com a família, Caminhadas
 
-#7 Nome: Marcia Oliveira 
+# Nome: Marcia Oliveira 
 Idade: 28 anos
 Ocupação: Baba 
 Aplicativos: WhatsApp, Facebook, Instagram 
