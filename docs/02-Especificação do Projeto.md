@@ -3,20 +3,64 @@
 A especificação do projeto e os detalhes mais importantes a serem abordados nesta aplicação foram definidas com a participação de clientes e prestadores de serviços onde a necessidade de executar um reparo especifico com qualidade, preço justo e realizado por profissionais qualificados e capacitados, podendo destacar: instalações elétricas, hidráulicas, manutenções de eletrodomésticos, montagem de moveis entre outras. Para auxiliar na intermediação da mão de obra e execução desses serviços necessita-se a realização do desenvolvimento de uma que plataforma que intermedia os valores da mão de obra, formas de pagamento, data, horário e local entre os usuários do sistema. A especificação do projeto foi levantada a partir das experiencias de personas e histórias dos usuários.   
 
 ## Personas
+As personas que ajudaram na criação do processo de entendimento do problema são apresentadas que se seguem. 
 
+#1 Nome: Carloos Alberto Silva
+Idade: 65 anos
+Ocupação: Aposentado
+Aplicativos: Facebook, Instagram, WhatsApp
+Motivações: Ter um reparo com eficiência e qualidade nas instalações hidráulicas de sua residência por um preço justo.
+Frustações: Problema na instalação hidráulica que resulta em vazamento de água. 
+Hobbies, Historias: Viajar, Dançar forró (pé de serra).
 
+#2 Nome: José Carlos
+Idade: 25 anos
+Ocupação: Bombeiro hidráulico e Eletricista.
+Aplicativos: Facebook, Instagram, WhatsApp
+Motivações: Prestar serviços com qualidade, Adquirir novos Clientes e novas experiências, garantia de recebimento pelo serviço prestado. 
+Frustações:Dificuldade em captar novos clientes para seu negócio, não recebimento pelo serviço prestado
+Hobbies, Historias: Ir ao cinema, ajudar uma ONG.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+#3 Nome: Rafael Silva 
+Idade: 49 anos
+Ocupação: Administrador do sistema
+Aplicativos: Telegram, Facebook, Instagram, MYSQLservar, Visual code, .NET, 
+Motivações: Administrar o sistema fazer correções de bugs para garantir a qualidade do sistema cadastrar as informações e gerenciá-las. 
+Frustações: A não funcionalidade do sistema. 
+Hobbies, Historias: Fazer trilha, Tocar violão. 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+#4 Nome: Ana Clara 
+Idade: 40 anos
+Ocupação: Dona de casa
+Aplicativos: WhatsApp 
+Motivações: Montagem da nova estante, rapidez e qualidade e bom acabamento
+Frustações: Não conseguir bom montador dentro do curto espaço de tempo. 
+Hobbies, Historias: Ver series, Se divertir com a família. 
+
+#5 Nome: André Araújo
+Idade: 35 anos
+Ocupação: Montador de moveis
+Aplicativos: WhatsApp, Facebook ,Instagram
+Motivações: Prestar serviços com qualidade, Adquirir novos Clientes e novas experiências, garantia de recebimento pelo serviço prestado.
+Frustações: Dificuldade em captar novos clientes para seu negócio, não recebimento pelo serviço prestado
+Hobbies, Historias: curtir com a família, viajar, Fazer exercícios físicos na acadêmica
+
+#6 Nome: Julia Maria 
+Idade: 42 anos
+Ocupação: Advogada
+Aplicativos: WhatsApp, Facebook, Instagram 
+Motivações: Babá com boas recomendações, sua filha bem cuidada enquanto realiza seus compromissos. 
+Frustações: Não poder comparecer ao compromisso no horário marcado
+Hobbies, Historias: Passeios com a família, Caminhadas
+
+#7 Nome: Marcia Oliveira 
+Idade: 28 anos
+Ocupação: Baba 
+Aplicativos: WhatsApp, Facebook, Instagram 
+Motivações: Prestar um bom atendimento aos clientes. 
+Frustações: Não ter uma boa reputação para os serviços prestados. 
+Hobbies, Historias: Ler livros, Serviços Voluntários. 
+
 
 ## Histórias de Usuários
 
