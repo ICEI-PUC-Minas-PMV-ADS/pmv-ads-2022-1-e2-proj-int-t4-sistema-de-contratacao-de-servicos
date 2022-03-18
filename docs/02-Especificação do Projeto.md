@@ -5,7 +5,7 @@ A especificação do projeto e os detalhes mais importantes a serem abordados ne
 ## Personas
 As personas que ajudaram na criação do processo de entendimento do problema são apresentadas que se seguem. 
 
-#1 Nome: Carloos Alberto Silva
+##1 Nome: Carloos Alberto Silva
 Idade: 65 anos
 Ocupação: Aposentado
 Aplicativos: Facebook, Instagram, WhatsApp
