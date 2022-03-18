@@ -15,7 +15,7 @@ Além disso, a plataforma funcionaria de forma colaborativa oferecendo condiçõ
 
 * Nome completo do aluno 1
 * Nome completo do aluno 2
-* Nome completo do aluno 3
+* Marcelo dos Santos Farias
 * Moisés Hastenraiter Da Silva
 
 
