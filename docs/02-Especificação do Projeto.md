@@ -5,13 +5,13 @@ A especificação do projeto e os detalhes mais importantes a serem abordados ne
 ## Personas
 As personas que ajudaram na criação do processo de entendimento do problema são apresentadas que se seguem. 
 
-# Nome: Carloos Alberto Silva
-Idade: 65 anos
-Ocupação: Aposentado
-Aplicativos: Facebook, Instagram, WhatsApp
-Motivações: Ter um reparo com eficiência e qualidade nas instalações hidráulicas de sua residência por um preço justo.
-Frustações: Problema na instalação hidráulica que resulta em vazamento de água. 
-Hobbies, Historias: Viajar, Dançar forró (pé de serra).
+## Nome: Carloos Alberto Silva
+## Idade: 65 anos
+## Ocupação: Aposentado
+## Aplicativos: Facebook, Instagram, WhatsApp
+## Motivações: Ter um reparo com eficiência e qualidade nas instalações hidráulicas de sua residência por um preço justo.
+## Frustações: Problema na instalação hidráulica que resulta em vazamento de água. 
+## Hobbies, Historias: Viajar, Dançar forró (pé de serra).
 
 # Nome: José Carlos
 Idade: 25 anos
