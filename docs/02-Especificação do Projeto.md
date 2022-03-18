@@ -68,30 +68,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Carlos Alberto Silva| Desejo uma ferramenta para encontrar prestadores de serviços na área de Hidráulica.    |Para ter fácil e rápido acesso a trabalhos oferecendo um serviço com qualidade e responsabilidade visando a satisfação do cliente.  |
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
+|Carlos Alberto Silva| Desejo uma ferramenta para encontrar prestadores de serviços na área de Hidráulica.    |Para ter fácil e rápido acesso a trabalhos oferecendo um serviço com qualidade e responsabilidade visando a satisfação do cliente.  
 |José Carlos | Desejo oferecer meus serviços em uma plataforma que possa captar novos clientes.             | Para solucionar um problema de vazamento na instalação Hidráulica.               |
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
 |Rafael Silva | Desejo colaborar para o bom funcionamento do sistema atuando na correção de bugs alterações no sistema.|Para satisfazer a demanda dos clientes prestadores de serviço e clientes contratantes de serviços. |
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
 |Ana Clara | Desejo uma ferramenta para encontrar um bom profissional para a montagem do móvel recém adquirido | Para receber uma visita importante com a nova decoração da sala.  |
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
 |André Araújo | Desejo Receber propostas de novos clientes interessados em montagens de moveis.  | Para captar novos clientes e ter maior faturamento.  |
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
 |Julia Maria|Desejo uma ferramenta para encontrar babás para cuidarem de sua filha enquanto estiver ausente. | Para não se preocupar com sua filha enquanto estiver trabalhando. |
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
 |Marcia Oliveira |Desejo oferecer serviços em uma plataforma que ajude a aumentar o número de clientes. | Para ser bem recomendada e aumentar seus ganhos com uma boa carteira de clientes |
 
 
