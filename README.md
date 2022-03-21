@@ -14,7 +14,7 @@ Além disso, a plataforma funcionaria de forma colaborativa oferecendo condiçõ
 ## Integrantes
 
 * Nome completo do aluno 1
-* Nome completo do aluno 2
+* Cristiane de Morais Ramos
 * Marcelo dos Santos Farias
 * Moisés Hastenraiter Da Silva
 
