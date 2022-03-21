@@ -33,22 +33,22 @@ O site proposto neste projeto está incluído nesse contexto atual de pandemia/p
 </div>
 
 ## Público-Alvo
-<div style="text-align: right"> 
+<div style="text-align: justify"> 
 O público-alvo inclui quem será beneficiado com o software desenvolvido de forma indireta ou indireta.
 Nesse contexto, o público-alvo deste projeto inclui:
 </div>
 
 #### Fornecedores de serviços:
-<div style="text-align: right"> 
-*Profissionais autônomos: pintores, marceneiros, encanadores
-*Pessoas que procuram renda-extra e estão dispostas a realizar serviços mais simples, que não requerem demasiado conhecimento específico, como montagem de moveis;
-*Pequenas empresas que desejem ser mais conhecidas na sua região de atuação;
+<div style="text-align: justify"> 
+* Profissionais autônomos: pintores, marceneiros, encanadores
+* Pessoas que procuram renda-extra e estão dispostas a realizar serviços mais simples, que não requerem demasiado conhecimento específico, como montagem de moveis;
+* Pequenas empresas que desejem ser mais conhecidas na sua região de atuação;
 Esse grupo terá um meio de divulgação de seus serviços de uma forma mais direcionada aos clientes de sua região. Isso poderá resultar também em diminuição de gastos com transporte/combustível até o lugar de realização do serviço.
 <div>
 
 #### Clientes: 
-<div style="text-align: right"> 
-*Qualquer pessoa interessada em contratar os serviços de manutenção e reparos citados anteriormente. 
+<div style= "text-align: justify"> 
+* Qualquer pessoa interessada em contratar os serviços de manutenção e reparos citados anteriormente. 
 
 Alguns exemplos são pessoas que dispõe de pouco tempo para realizar esses serviços, que não querem ter a preocupação de montar seu móvel novo, que não tem o conhecimento de como realizar serviços mais específicos como de pintura e instalação de ar-condicionado etc.
 Esse grupo será diretamente beneficiado pelo site, pois terá de forma mais acessível e centralizada, na internet, a disponibilização de prestadores de serviços da sua região.
