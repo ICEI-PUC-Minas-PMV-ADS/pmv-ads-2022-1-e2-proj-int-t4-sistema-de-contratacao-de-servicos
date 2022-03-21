@@ -24,23 +24,39 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
-
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+<div style="text-align: right"> 
+Na atualidade, com o aumento do ritmo de trabalho das pessoas, com o aumento do número de mulheres no mercado de trabalho, e com o aparecimento do covid-19 no final de 2019, as pessoas se viram obrigadas a mudar suas rotinas domésticas.
+Muitas pessoas começaram a trabalhar em casa, o chamado home-office, e muitas empresas mantiveram seus empregados trabalhando desde suas casas, mesmo após o pico da pandemia, pois viram que era uma opção viável e que diminuía custos para a empresa.
+Nesse contexto, com muitas pessoas em casa, porém dedicando a maior parte de seu tempo ao seu trabalho, abre-se uma oportunidade para os serviços disponibilizados online, como os serviços de manutenção para casas.
+Desde a criação do uber, houve a criação de vários outros aplicativos de serviços que seguiram a mesma lógica, como uber eats, airbnb, ifood, etc. Todos com o intuito de diminuir a intermediação entre o fornecedor do serviço e o cliente final, facilitar e tornar mais segura as transações financeiras entre eles.
+O site proposto neste projeto está incluído nesse contexto atual de pandemia/pós pandemia e ‘uberização’ dos serviços, e encontra nele a oportunidade de conectar fornecedores de servidos de manutenção doméstica e clientes de forma fácil, ágil e segura. Os clientes e fornecedores poderão avaliar uns aos outros, formando assim uma rede confiável de prestação de serviços.
+</div>
 
 ## Público-Alvo
+<div style="text-align: right"> 
+O público-alvo inclui quem será beneficiado com o software desenvolvido de forma indireta ou indireta.
+Nesse contexto, o público-alvo deste projeto inclui:
+</div>
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+#### Fornecedores de serviços:
+<div style="text-align: right"> 
+*Profissionais autônomos: pintores, marceneiros, encanadores
+*Pessoas que procuram renda-extra e estão dispostas a realizar serviços mais simples, que não requerem demasiado conhecimento específico, como montagem de moveis;
+*Pequenas empresas que desejem ser mais conhecidas na sua região de atuação;
+Esse grupo terá um meio de divulgação de seus serviços de uma forma mais direcionada aos clientes de sua região. Isso poderá resultar também em diminuição de gastos com transporte/combustível até o lugar de realização do serviço.
+<div>
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+#### Clientes: 
+<div style="text-align: right"> 
+*Qualquer pessoa interessada em contratar os serviços de manutenção e reparos citados anteriormente. 
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Alguns exemplos são pessoas que dispõe de pouco tempo para realizar esses serviços, que não querem ter a preocupação de montar seu móvel novo, que não tem o conhecimento de como realizar serviços mais específicos como de pintura e instalação de ar-condicionado etc.
+Esse grupo será diretamente beneficiado pelo site, pois terá de forma mais acessível e centralizada, na internet, a disponibilização de prestadores de serviços da sua região.
+</div>
+
+#### Responsáveis pelo gerenciamento e criação do do site (podem ou não ser os mesmos), incluem:
+*Desenvolvedores do site;
+*Pessoas responsáveis pelo gerenciamento do site, incluindo lucros e despesas que o site possa ter;
+*Proprietario do site;
+*Financiadores do site;
+
