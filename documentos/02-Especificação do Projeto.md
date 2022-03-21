@@ -82,10 +82,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+ID                                   Descrição                                                                                 Prioridade
+RF-01    O site deve apresentar na página principal um menu com os tipos de serviços prestados                     Alta
+RF-02    O site deve apresentar na página principal agendamento online                                             Alta
+RF-03    O site deve permitir ao usuário solicitar orçamento                                                       Média
+RF-04    O site deve apresentar, para cada serviço, uma imagem                                                     Média
+         Correspondente                                                                                    
+RF-05    O site deve permitir visualizar as informações de contatos                                                Média
+RF-06    O site deve permitir que usuários possam comentar e dar notas                                             Baixa
+
 
 ### Requisitos não Funcionais
 
