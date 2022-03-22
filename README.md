@@ -13,7 +13,7 @@ Além disso, a plataforma funcionaria de forma colaborativa oferecendo condiçõ
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Maxwell Justino Ferreira
 * Cristiane de Morais Ramos
 * Marcelo dos Santos Farias
 * Moisés Hastenraiter Da Silva
