@@ -17,6 +17,7 @@ Além disso, a plataforma funcionaria de forma colaborativa oferecendo condiçõ
 * Cristiane de Morais Ramos
 * Marcelo dos Santos Farias
 * Moisés Hastenraiter Da Silva
+* Valcilene Aparecida França Miranda Dias
 
 
 ## Orientador
