@@ -120,8 +120,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue até o final do semestre letivo, não podendo extrapolar a data de 29/06/2022|
+|02|A equipe de desenvolvimento não pode subcontratar o desenvolvimento do trabalho.|
+|03|A manipulação dos dados do sistema deve ser realizada através da linguagem de banco de dados SQL e armazenadas no SQL Server.|
+|04|O sistema deve conter um módulo de back-end.|
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
