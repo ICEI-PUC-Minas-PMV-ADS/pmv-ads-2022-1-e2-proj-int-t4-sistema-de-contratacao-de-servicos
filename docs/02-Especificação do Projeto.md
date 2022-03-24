@@ -92,9 +92,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-06| O site deve permitir ao usuário solicitar orçamento | Média | 
 |RF-07| O site deve permitir ao fornecedor cadastrar os seus serviços| Média |
 |RF-08| O site deve permitir visualizar as informações de contatos | Média |  
-|RF-09| O site deve apresentar, para cada serviço, uma imagem correspondente| Baixa |
-|RF-10| O site deve apresentar, para cada serviço, uma imagem correspondente| Baixa |                                                                    
-|RF-11| O site deve permitir que usuários possam comentar e fazer avaliação | Baixa |                                                                                     
+|RF-09| O site deve apresentar, para cada serviço, uma imagem correspondente| Baixa |                                                                
+|RF-10| O site deve permitir que usuários possam comentar e fazer avaliação | Baixa |                                                                                     
                                                                                   
                                                                                                            
                                                                              
