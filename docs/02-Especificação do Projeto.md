@@ -85,10 +85,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID| Descrição  |Prioridade                 |
 |--------------------|------------------------------------|----------------------------------------|
 |RF-01| O site deve apresentar na página principal um menu com os tipos de serviços prestados    |Alta
-|RF-02| O site deve apresentar na página principal agendamento online | Alta |                                                                                       |RF-03| O site deve permitir ao usuário solicitar orçamento | Média |                                       
-|RF-04| O site deve apresentar, para cada serviço, uma imagem correspondente| Média |                                                   
-|RF-05| O site deve permitir visualizar as informações de contatos | Média |                                                                           
-|RF-06| O site deve permitir que usuários possam comentar e dar notas | Baixa |                                                                                     
+|RF-02| O site deve apresentar na página principal agendamento online | Alta |   
+|RF-03| O site deve permitir o cadastro de usuários: clientes e fornecedores de serviços  | Alta |
+|RF-04| O site deve permitir o cliente adicionar o serviço desejado a uma lista de compras | Alta | 
+|RF-05| O site deve permitir ao cliente efetuar o pagamento pelos serviços | Alta |
+|RF-06| O site deve permitir ao usuário solicitar orçamento | Média | 
+|RF-07| O site deve permitir ao fornecedor cadastrar os seus serviços| Média |
+|RF-08| O site deve permitir visualizar as informações de contatos | Média |  
+|RF-09| O site deve apresentar, para cada serviço, uma imagem correspondente| Baixa |
+|RF-10| O site deve apresentar, para cada serviço, uma imagem correspondente| Baixa |                                                                    
+|RF-11| O site deve permitir que usuários possam comentar e fazer avaliação | Baixa |                                                                                     
                                                                                   
                                                                                                            
                                                                              
