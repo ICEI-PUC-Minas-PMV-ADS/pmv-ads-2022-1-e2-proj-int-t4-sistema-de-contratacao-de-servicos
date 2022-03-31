@@ -14,8 +14,8 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 |Ambiente| Plataforma  |Link de Acesso |
 |--------------------|------------------------------------|----------------------------------------|
-|Repositório de código fonte |GitHub|
-|Documentos do projeto |
+|Repositório de código fonte |GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos
+|Documentos do projeto |GitHub|
 |Projeto de Interface e Wireframes |
 |Gerenciamento do Projeto |
 
