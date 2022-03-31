@@ -7,7 +7,11 @@ A metodologia de desenvolvimento utilizada é o Scrum, uma metodologia ágil uti
 A equipe adaptou o Scrum levando em consideração as necessidades do projeto e a disponibilidade dos membros. A equipe se comunicou por meio de mensagens no WhatsApp e reuniões no Teams para tomadas de decisões. 
 
 
-## Controle de Versão
+## Relação de Ambientes de Trabalho
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos
+ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
