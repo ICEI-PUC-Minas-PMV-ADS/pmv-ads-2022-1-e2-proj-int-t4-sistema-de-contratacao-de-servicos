@@ -14,8 +14,10 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 |Ambiente| Plataforma  |Link de Acesso |
 |--------------------|------------------------------------|----------------------------------------|
-|Repositório de |GitHub|
- código fonte
+|Repositório de código fonte |GitHub|
+|Documentos do projeto |
+|Projeto de Interface e Wireframes |
+|Gerenciamento do Projeto |
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
