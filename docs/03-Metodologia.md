@@ -14,7 +14,6 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 |Ambiente| Plataforma  |Link de Acesso |
 |--------------------|------------------------------------|----------------------------------------|
-
 |Repositório de |GitHub|
  código fonte
 
