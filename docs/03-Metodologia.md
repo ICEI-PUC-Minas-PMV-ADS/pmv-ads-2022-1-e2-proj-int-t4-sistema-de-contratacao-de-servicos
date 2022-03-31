@@ -12,7 +12,8 @@ A equipe adaptou o Scrum levando em consideração as necessidades do projeto e 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos
 ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
-|Ambiente|Plataforma|Link de Acesso|
+|Ambiente| Plataforma  |Link de Acesso |
+|--------------------|------------------------------------|----------------------------------------|
 
 
 A ferramenta de controle de versão adotada no projeto foi o
