@@ -15,9 +15,9 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 |Ambiente| Plataforma  |Link de Acesso |
 |--------------------|------------------------------------|----------------------------------------|
 |Repositório de código fonte |GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos
-|Documentos do projeto |GitHub|
+|Documentos do projeto |GitHubDocs|Projeto Sistema de contratação de Serviços|
 |Projeto de Interface e Wireframes |
-|Gerenciamento do Projeto |
+|Gerenciamento do Projeto |Trello|
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
