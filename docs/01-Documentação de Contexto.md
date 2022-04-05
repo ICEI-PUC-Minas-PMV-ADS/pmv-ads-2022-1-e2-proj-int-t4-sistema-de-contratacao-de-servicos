@@ -1,24 +1,21 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Muitas pessoas possuem a necessidade de realizar diferentes tipos de reparos e serviços em suas residências, desde problemas no encanamento, limpeza e instalação de um ar-condicionado split, pintura, montagem de móveis, entre outros tipos de serviços ou manutenção. Em algumas situações são necessários serviços especializados, exigindo, assim, a contratação de um profissional qualificado e reconhecido pelo bom serviço.
+Por outro lado, existem fornecedores de serviços que desejam aumentar a sua clientela. Por isso buscam anunciar os seus serviços em sites e ferramentas que visam aproximar os potenciais cliente de sua região.
+Diante desta perspectiva, queremos criar uma plataforma em que os fornecedores possam se cadastrar e oferecer os seus serviços. Da mesma, os usuários que precisam de um serviço para o seu lar, poderiam se cadastrar e localizar os profissionais que poderiam atendê-las.
+Além disso, a plataforma funcionaria de forma colaborativa oferecendo condições para que o cliente e o profissional avaliassem um ao outro, e, assim, promover um rank de reputação, buscando beneficiar os melhores usuários e fornecedores.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Conforme exposto, o problema que se busca resolver com este projeto é a aproximação dos usuários aos fornecedores de serviços de forma fácil, ágil e segura.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é a criação de solução tecnológica que visa aproximar os usuários que queiram contratar serviços domésticos aos profissionais cadastrados, oferecendo-lhes vários orçamentos para que possam escolher a melhor opção.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Como objetivos específicos, podemos ressaltar:
+* Fornecer orçamentos de profissionais habilitados e qualificados;
+* Fornecer a lista de clientes com a suas necessidades cadastradas;
+* Fornecer rank dos profissionais e clientes mais bem avaliados;
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -33,10 +30,6 @@ O site proposto neste projeto está incluído nesse contexto atual de pandemia/p
 </p>
 
 ## Público-Alvo
-<p align="justify">
-O público-alvo inclui quem será beneficiado com o software desenvolvido de forma indireta ou indireta.
-Nesse contexto, o público-alvo deste projeto inclui:
-</p>
 
 #### Fornecedores de serviços:
 <p align="justify"> 
