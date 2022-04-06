@@ -17,7 +17,7 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 |Repositório de código fonte |GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos
 |Documentos do projeto |GitHubDocs|Projeto Sistema de contratação de Serviços|
 |Projeto de Interface e Wireframes |figma|https://figma.com|
-|Gerenciamento do Projeto |Trello|https://trello.com/b/A3C9prOs/kanban|
+|Gerenciamento do Projeto |Trello|https://trello.com/b/A3C9prOs/kanban
 
 ## Gerenciamento de Projeto
 
