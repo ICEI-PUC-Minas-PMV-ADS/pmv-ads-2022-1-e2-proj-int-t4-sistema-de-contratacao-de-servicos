@@ -34,7 +34,7 @@ A equipe está organizada da seguinte maneira:
 ○ 
 ○ 
 ● Equipe de Design
-○ 
+○ Valcilene França
 
 ### Processo
 
@@ -51,8 +51,11 @@ estruturado com as seguintes listas:
 
 ● Feito: Quando a tarefa tiver sido revisada e aprovada, ela é movida para cá.
 
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Quadro%20Kaban.PNG
+
 O quadro kanban do grupo no Trello está disponível através da URL
-https://trello.com/b/LupglzUz/tiaw-template e é apresentado, no estado atual, na Figura X. A
+https://trello.com/b/A3C9prOs/kanban e é apresentado, no estado atual, na Figura X. A
 definição desta estrutura se baseou na proposta feita por Littlefield (2016).)
 
 ### Ferramentas
