@@ -53,6 +53,10 @@ estruturado com as seguintes listas:
 
 
 ![](docs/img/Quadro Kaban.PNG)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/diagrama_de_classes.jpeg">
+</p>
+<p align="center">Figura X - Diagrama de Classes</p>
 
 O quadro kanban do grupo no Trello está disponível através da URL
 https://trello.com/b/A3C9prOs/kanban e é apresentado, no estado atual, na Figura X. A
