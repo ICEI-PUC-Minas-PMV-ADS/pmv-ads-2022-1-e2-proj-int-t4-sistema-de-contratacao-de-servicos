@@ -1,25 +1,23 @@
 # Introdução
 
-Muitas pessoas possuem a necessidade de realizar diferentes tipos de reparos e serviços em suas residências, desde problemas no encanamento, limpeza e instalação de um ar-condicionado split, pintura, montagem de móveis, entre outros tipos de serviços ou manutenção. Em algumas situações são necessários serviços especializados, exigindo, assim, a contratação de um profissional qualificado e reconhecido pelo bom serviço.
+<p align="justify"> Muitas pessoas possuem a necessidade de realizar diferentes tipos de reparos e serviços em suas residências, desde problemas no encanamento, limpeza e instalação de um ar-condicionado split, pintura, montagem de móveis, entre outros tipos de serviços ou manutenção. Em algumas situações são necessários serviços especializados, exigindo, assim, a contratação de um profissional qualificado e reconhecido pelo bom serviço.
 Por outro lado, existem fornecedores de serviços que desejam aumentar a sua clientela. Por isso buscam anunciar os seus serviços em sites e ferramentas que visam aproximar os potenciais cliente de sua região.
 Diante desta perspectiva, queremos criar uma plataforma em que os fornecedores possam se cadastrar e oferecer os seus serviços. Da mesma, os usuários que precisam de um serviço para o seu lar, poderiam se cadastrar e localizar os profissionais que poderiam atendê-las.
-Além disso, a plataforma funcionaria de forma colaborativa oferecendo condições para que o cliente e o profissional avaliassem um ao outro, e, assim, promover um rank de reputação, buscando beneficiar os melhores usuários e fornecedores.
+Além disso, a plataforma funcionaria de forma colaborativa oferecendo condições para que o cliente e o profissional avaliassem um ao outro, e, assim, promover um rank de reputação, buscando beneficiar os melhores usuários e fornecedores.</p>
 
 ## Problema
-Conforme exposto, o problema que se busca resolver com este projeto é a aproximação dos usuários aos fornecedores de serviços de forma fácil, ágil e segura.
+<p align="justify"> Conforme exposto, o problema que se busca resolver com este projeto é a aproximação dos usuários aos fornecedores de serviços de forma fácil, ágil e segura.</p>
 
 ## Objetivos
 
-O objetivo geral deste trabalho é a criação de solução tecnológica que visa aproximar os usuários que queiram contratar serviços domésticos aos profissionais cadastrados, oferecendo-lhes vários orçamentos para que possam escolher a melhor opção.
+<p align="justify"> O objetivo geral deste trabalho é a criação de solução tecnológica que visa aproximar os usuários que queiram contratar serviços domésticos aos profissionais cadastrados, oferecendo-lhes vários orçamentos para que possam escolher a melhor opção.
+</p>
 
 Como objetivos específicos, podemos ressaltar:
 * Fornecer orçamentos de profissionais habilitados e qualificados;
 * Fornecer a lista de clientes com a suas necessidades cadastradas;
 * Fornecer rank dos profissionais e clientes mais bem avaliados;
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 <p align="justify"> 
 Na atualidade, com o aumento do ritmo de trabalho das pessoas, com o aumento do número de mulheres no mercado de trabalho, e com o aparecimento do covid-19 no final de 2019, as pessoas se viram obrigadas a mudar suas rotinas domésticas.
