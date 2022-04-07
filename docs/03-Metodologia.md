@@ -47,7 +47,7 @@ estruturado com as seguintes listas:
 
 ● Em andamento: à medida que o time começa a trabalhar nas tarefas, os cartões são movidos para essa lista. Rapidamente, todo o time pode ver as tarefas atuais de cada membro. Os cartões do Trello também permitem que os times conversem e façam perguntas uns aos outros sobre uma certa tarefa com a funcionalidade de comentários. 
 
-● Revisão/Teste:  Quando a tarefa está quase concluída, é o momento de movê-la para esta lista para que seja revisada ou que alguém dê uma segunda olhada. (
+● Revisão/Teste:  Quando a tarefa está quase concluída, é o momento de movê-la para esta lista para que seja revisada ou que alguém dê uma segunda olhada. 
 
 ● Feito: Quando a tarefa tiver sido revisada e aprovada, ela é movida para cá.
 
