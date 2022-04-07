@@ -52,7 +52,7 @@ estruturado com as seguintes listas:
 ● Feito: Quando a tarefa tiver sido revisada e aprovada, ela é movida para cá.
 
 
-![Quadro Kaban](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Quadro%20Kaban.PNGª
+![Quadro Kaban]docs/img/Quadro Kaban.PNG
 
 O quadro kanban do grupo no Trello está disponível através da URL
 https://trello.com/b/A3C9prOs/kanban e é apresentado, no estado atual, na Figura X. A
