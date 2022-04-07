@@ -52,7 +52,7 @@ estruturado com as seguintes listas:
 ● Feito: Quando a tarefa tiver sido revisada e aprovada, ela é movida para cá.
 
 
-![Exemplo de Wireframe](docs/img/Quadro Kaban.PNG)
+![Quadro Kaban](docs/img/Quadro Kaban.PNG)
 
 O quadro kanban do grupo no Trello está disponível através da URL
 https://trello.com/b/A3C9prOs/kanban e é apresentado, no estado atual, na Figura X. A
