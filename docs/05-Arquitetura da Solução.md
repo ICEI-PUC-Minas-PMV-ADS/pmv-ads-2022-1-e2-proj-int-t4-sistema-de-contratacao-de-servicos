@@ -11,7 +11,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 Segue abaixo o diagrama de classes deste projeto:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/diagrama_de_classes.jpeg">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/diagrama_de%20classes_1.jpeg">
 </p>
 <p align="center">Figura X - Diagrama de Classes</p>
 
