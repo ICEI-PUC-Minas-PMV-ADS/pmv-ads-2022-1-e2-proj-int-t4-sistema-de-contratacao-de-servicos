@@ -23,11 +23,13 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório.
 
-Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura. Dessa forma consegue organizar o código e a organização das versões. A interação da equipe de desenvolvedores também fica facilitada. 
-Figura 2
+Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura X. Dessa forma consegue organizar o código e a organização das versões. A interação da equipe de desenvolvedores também fica facilitada. 
 
-Figura 2 – Fluxo de controle do código fonte no repositório git
 
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Quadro%20Kaban.PNG">
+</p>
+<p align="center">Figura X - Quadro Kaban</p>
 
 O projeto segue a seguinte convenção para o nome de branches:
 
