@@ -19,7 +19,7 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 |Fazer agendamento e pagamento|O usuário cliente deverá ter efetuado login, irá clicar em agendar o serviço e efetuar o pagamento online| RF-001 || RF-003 || RF-005 |
 |Entrega do serviço e Recebimento|O usuário fornecedor devera imitir recibo de entrega serviço e receber pagamento| RF-001 || RF-003 || RF-011|
 
-![Exemplo de Diagrama de Fluxo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Diagrama%20contrata%C3%A7%C3%A3o%20de%20servi%C3%A7os.jpeg)
+![Exemplo de Diagrama de Fluxo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Diagrama%20de%20Fluxo%20de%20Usu%C3%A1rio%20-%20P%C3%A1gina%203.jpeg)
 
 ## Wireframes
 
