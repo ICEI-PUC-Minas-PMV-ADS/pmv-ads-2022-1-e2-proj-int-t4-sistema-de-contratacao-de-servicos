@@ -11,6 +11,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
 
+|FLUXO DO USUÁRIO| DESCRIÇÃO | RF |
+|--|-------------------------------------------------------|----------------------|
 |Página Inicial| Será reponsavel por ligar as funcionalidades principais do sistema| RF-008 |
 |Cadastro de usuário | O usuário deve conseguir realizar um cadastro na aplicação dividido em fornecedor e cliente| RF-002 |
 |Solicitar Orçamento e envio de proposta|O usuário deverá ter efetuado login, o usuário cliente deverá preencher as informações da solicitação de serviço. O usuário fornecedor irá analisar a solicitação e enviar proposta| RF-001 || RF-003|| RF-004| | RF-006 |
