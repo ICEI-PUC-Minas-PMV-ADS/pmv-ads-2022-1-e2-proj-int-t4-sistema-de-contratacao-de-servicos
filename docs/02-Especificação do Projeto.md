@@ -84,20 +84,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID| Descrição  |Prioridade                 |
 |--------------------|------------------------------------|----------------------------------------|
-|RF-01| O site deve apresentar na página principal um menu com os tipos de serviços prestados    |Alta
-|RF-02| O site deve apresentar na página principal agendamento online | Alta |   
-|RF-03| O site deve permitir o cadastro de usuários: clientes e fornecedores de serviços  | Alta |
-|RF-04| O site deve permitir o cliente adicionar o serviço desejado a uma lista de compras | Alta | 
-|RF-05| O site deve permitir ao cliente efetuar o pagamento pelos serviços | Alta |
-|RF-06| O site deve permitir ao usuário solicitar orçamento | Média | 
-|RF-07| O site deve permitir ao fornecedor cadastrar os seus serviços| Média |
-|RF-08| O site deve permitir visualizar as informações de contatos | Média |  
-|RF-09| O site deve apresentar, para cada serviço, uma imagem correspondente| Baixa |                                                                
-|RF-10| O site deve permitir que usuários possam comentar e fazer avaliação | Baixa |                                                                                     
+|RF-01| O site deve possibilitar ao usuário (cliente e fornecedor de serviços) fazer login, se cadastrar ou alterar sua senha  |Alta|
+|RF-02| O site deve conter uma lista pré-estabelecida de serviços que poderão ser selecionados pelo fornecedor de serviços (como serviço oferecido) e pelo cliente (como serviço desejado) | Média|
+|RF-03| O site deve permitir ao cliente selecionar um serviço (da lista pré-estabelecida) e solicitar seu orçamento, podendo também adicionar informações sobre o serviço requerido  | Alta |
+|RF-04| O site deve permitir ao fornecedor enviar prosposta| Alta|
+|RF-05| O site deve permitir ao cliente o agendamento do serviço escolhido após ter recebido e aprovado o orçamento do mesmo | Alta | 
+|RF-06| O site deve permitir ao cliente adicionar o serviço (com seu orçamento previamente aprovado) a uma lista de serviços/carrinho de compras | Alta |
+|RF-07|Osite deve permitir ao cliente efetuar o pagamento pelo serviço(s) prestado(s) | Média | 
+|RF-08|O site deve permitir ao cliente realizar a avaliação do serviço prestado pelo fornecedor | Baixa
+|RF-09|O site deve permitir ao fornecedor o recebimento online pelo serviços prestados |Alta| 
+|RF-10O site deve permitir ao cliente visualizar o contato e as avaliações referentes aos fornecedores| Baixa|
+                                                                                    
                                                                                   
                                                                                                            
-                                                                             
-                                                                          
+                                                                         
 
 
 ### Requisitos não Funcionais
