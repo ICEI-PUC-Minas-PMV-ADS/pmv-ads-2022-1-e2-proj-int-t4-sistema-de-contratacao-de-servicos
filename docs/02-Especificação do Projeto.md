@@ -90,10 +90,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-04| O site deve permitir ao fornecedor enviar prosposta| Alta|
 |RF-05| O site deve permitir ao cliente o agendamento do serviço escolhido após ter recebido e aprovado o orçamento do mesmo | Alta | 
 |RF-06| O site deve permitir ao cliente adicionar o serviço (com seu orçamento previamente aprovado) a uma lista de serviços/carrinho de compras | Alta |
-|RF-07|Osite deve permitir ao cliente efetuar o pagamento pelo serviço(s) prestado(s) | Média | 
-|RF-08|O site deve permitir ao cliente realizar a avaliação do serviço prestado pelo fornecedor | Baixa
-|RF-09|O site deve permitir ao fornecedor o recebimento online pelo serviços prestados |Alta| 
-|RF-10O site deve permitir ao cliente visualizar o contato e as avaliações referentes aos fornecedores| Baixa|
+|RF-07| O site deve permitir ao cliente efetuar o pagamento pelo serviço(s) prestado(s) | Média | 
+|RF-08| O site deve permitir ao cliente realizar a avaliação do serviço prestado pelo fornecedor | Baixa|
+|RF-09| O site deve permitir ao fornecedor o recebimento online pelo serviços prestados |Alta| 
+|RF-10| O site deve permitir ao cliente visualizar o contato e as avaliações referentes aos fornecedores| Baixa|
                                                                                     
                                                                                   
                                                                                                            
