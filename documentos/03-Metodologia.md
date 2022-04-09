@@ -23,8 +23,7 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório.
 
-Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura 2. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature.  
-
+Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura. Dessa forma consegue organizar o código e a organização das versões. A interação da equipe de desenvolvedores também fica facilitada. 
 Figura 2
 
 Figura 2 – Fluxo de controle do código fonte no repositório git
