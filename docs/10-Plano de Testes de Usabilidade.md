@@ -6,7 +6,7 @@
 
 ### Método Utilizado
 
- O Teste será realizado no modelo de aprendizado (experimentação) por meio de uma pessoa que terá acesso a aplicação pela primeira vez, Ou seja, para realizar uma tarefa específica, a pessoa terá que começar do zero. Assim, o usuário terá que realizar a mesma tarefa diversas vezes e, com isso, se avalia a curva de aprendizado.
+ O Teste será realizado no modelo de aprendizado (experimentação) por meio de uma pessoa que terá acesso a aplicação pela primeira vez, ou seja, para realizar uma tarefa específica, a pessoa terá que começar do zero. Assim, o usuário terá que realizar a mesma tarefa diversas vezes e, com isso, se avalia a curva de aprendizado.
 
 
 ### __Roteiro__ 
