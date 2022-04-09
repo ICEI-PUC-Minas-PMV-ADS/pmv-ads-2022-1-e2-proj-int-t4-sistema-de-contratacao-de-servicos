@@ -19,6 +19,34 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 |Projeto de Interface e Wireframes |figma|https://figma.com|
 |Gerenciamento do Projeto |Trello|https://trello.com/b/A3C9prOs/kanban
 
+## Controle de Versão
+
+A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório.
+
+Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura 2. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature.  
+
+Figura 2
+
+Figura 2 – Fluxo de controle do código fonte no repositório git
+
+
+O projeto segue a seguinte convenção para o nome de branches:
+
+main: versão estável já testada do software
+unstable: versão já testada do software, porém instável
+testing: versão em testes do software
+dev: versão de desenvolvimento do software
+
+Quanto à gerência de issues, o projeto adota a seguinte convenção para etiquetas:
+
+documentation: melhorias ou acréscimos à documentação
+bug: uma funcionalidade encontra-se com problemas
+enhancement: uma funcionalidade precisa ser melhorada
+feature: uma nova funcionalidade precisa ser introduzida
+
+
+
+
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
