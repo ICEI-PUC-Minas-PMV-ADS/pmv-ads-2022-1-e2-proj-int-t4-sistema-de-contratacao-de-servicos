@@ -33,17 +33,18 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+<p align="center">As linguagens utilizadas para solução do problema serão: HTML, CSS, JavaScript e PHP. Durante o desenvolvimento serão priorizadas o uso de ferramentas alternativas gratuitas de tecnologia, dentre elas: Trello, Miro, LucidChart e Figma.
+A hospedagem do site será feita através do GitHub Pages. 
+A imagem abaixo demonstra a interação do usuário com o sistema, por onde ela passa até retornar uma resposta ao usuário:</p>
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/interacao_usuario.png"> </p>
+<p align="center">Figura X - Interação do usuário com o sistema</p>
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+O site utilizará a plataforma do GitHub Pages como ambiente de hospedagem do site do projeto.
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+A publicação do site no GitHub Pages será feita por meio de uma submissão do projeto (push) via git para o repositório remoto onde o site será hospedado.
+
+
