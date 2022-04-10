@@ -95,6 +95,6 @@ As ferramentas empregadas no projeto são:
 
 Editor de código: Visual Studio Cod     
 Ferramentas de comunicação: Microsoft Teams e WhatsApp     
-Ferramentas para criação de diagramas: Lucidchart    
+Ferramentas para criação de diagramas: Lucidchart, modelo Entidade
 Ferramentas de desenho de tela (wireframing): figma
  
