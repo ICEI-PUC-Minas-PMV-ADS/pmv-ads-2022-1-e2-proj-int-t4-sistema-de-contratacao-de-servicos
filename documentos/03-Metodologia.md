@@ -93,8 +93,8 @@ https://trello.com/b/A3C9prOs/kanban e é apresentado, no estado atual, na Figur
 
 As ferramentas empregadas no projeto são:
 
-Editor de código: Visual Studio.
-Ferramentas de comunicação: Microsoft Teams
+Editor de código: Visual Studio Cod.
+Ferramentas de comunicação: Microsoft Teams e WhatsApp
 Ferramentas para criação de diagramas:  Lucidchart
 Ferramentas de desenho de tela (wireframing): figma
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. A ferramenta de comunicação já era utilizada para reunião com professor. Para criar diagramas utilizamos as ferramentas mencionadas porque cada uma delas atendeu melhor as nossas necessidades. Por fim, a ferramenta escolhida para o desenvolvimento dos wireframes e interface de usuário foi ecolhida por permitir a edição colaborativa.
+ 
