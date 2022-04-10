@@ -33,7 +33,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 ## Tecnologias Utilizadas
 
-<p align="center">As linguagens utilizadas para solução do problema serão: HTML, CSS, JavaScript e PHP. Durante o desenvolvimento serão priorizadas o uso de ferramentas alternativas gratuitas de tecnologia, dentre elas: Trello, Miro, LucidChart e Figma.
+<p align="center">As linguagens utilizadas, no front-end, para solução do problema serão: HTML, CSS, JavaScript. Para o back-end, tanto a linguagem e framework utilizados serão selecionados posteriormente. Durante o desenvolvimento serão priorizadas o uso de ferramentas alternativas gratuitas de tecnologia, dentre elas: Trello, Miro, LucidChart e Figma.
 A hospedagem do site será feita através do GitHub Pages. 
 A imagem abaixo demonstra a interação do usuário com o sistema, por onde ela passa até retornar uma resposta ao usuário:</p>
 
