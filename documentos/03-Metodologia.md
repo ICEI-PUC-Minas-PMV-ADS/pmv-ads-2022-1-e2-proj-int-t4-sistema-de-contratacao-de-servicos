@@ -54,15 +54,15 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
-● Scrum Master: Victor
-● Product Owner: Mario
-● Equipe de Desenvolvimento
-○ Marcelo
-○ Moisés
-○ Maxwell
-● Equipe de Design
-○ Valcilene
-○ Cristiane
+● Scrum Master: Victor  
+● Product Owner: Mario  
+● Equipe de Desenvolvimento  
+○ Marcelo  
+○ Moisés  
+○ Maxwell  
+● Equipe de Design  
+○ Valcilene  
+○ Cristiane  
 
 ### Processo
 
