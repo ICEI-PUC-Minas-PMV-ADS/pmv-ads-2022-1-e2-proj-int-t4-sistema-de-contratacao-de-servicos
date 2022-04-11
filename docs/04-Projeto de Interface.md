@@ -7,7 +7,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+<p align="justify">O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.</p>
 
 |FLUXO DO USUÁRIO| DESCRIÇÃO | RF |
 |--|-------------------------------------------------------|----------------------|
@@ -22,7 +22,7 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 ## Wireframes
 
-O wireframe apresenta o fluxo visual do procedimento passo a passo, baseado no fluxograma acima. Para a criação do wireframe foi utlizado Excalidraw.
+<p align="justify">O wireframe apresenta o fluxo visual do procedimento passo a passo, baseado no fluxograma acima. Para a criação do wireframe foi utlizado Excalidraw.</p>
 
 ![Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Wireframe.png)
 <p align="center">Figura 5 - Wireframe </p>

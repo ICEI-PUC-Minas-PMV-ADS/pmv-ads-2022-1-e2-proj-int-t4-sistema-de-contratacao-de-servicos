@@ -4,9 +4,9 @@
 
 ## Diagrama de Classes
 
-O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
+<p align="justify">O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-Segue abaixo o diagrama de classes deste projeto:
+Segue abaixo o diagrama de classes deste projeto:</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/diagrama_de%20_classes.jpeg">
@@ -15,9 +15,9 @@ Segue abaixo o diagrama de classes deste projeto:
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
+<p align="justify">O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
-Segue abaixo o modelo de entidade relacional deste projeto:
+Segue abaixo o modelo de entidade relacional deste projeto:</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/MER.jpg">
@@ -26,9 +26,9 @@ Segue abaixo o modelo de entidade relacional deste projeto:
 
 ## Esquema Relacional
 
-O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
+<p align="justify">O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-Segue abaixo o esquema relacional deste projeto:
+Segue abaixo o esquema relacional deste projeto:</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/ER.png">
@@ -47,8 +47,8 @@ A imagem abaixo demonstra a interação do usuário com o sistema, por onde ela 
 
 ## Hospedagem
 
-O site utilizará a plataforma do GitHub Pages como ambiente de hospedagem do site do projeto.
+<p align="justify">O site utilizará a plataforma do GitHub Pages como ambiente de hospedagem do site do projeto.
 
-A publicação do site no GitHub Pages será feita por meio de uma submissão do projeto (push) via git para o repositório remoto onde o site será hospedado.
+A publicação do site no GitHub Pages será feita por meio de uma submissão do projeto (push) via git para o repositório remoto onde o site será hospedado.</p>
 
 

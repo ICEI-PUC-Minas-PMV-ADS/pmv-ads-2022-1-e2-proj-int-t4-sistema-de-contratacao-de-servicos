@@ -3,14 +3,13 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-A metodologia de desenvolvimento utilizada é o Scrum, uma metodologia ágil utilizada no desenvolvimento de Software baseada em processos iterativos e incrementais. 
-A equipe adaptou o Scrum levando em consideração as necessidades do projeto e a disponibilidade dos membros. A equipe se comunicou por meio de mensagens no WhatsApp e reuniões no Teams para tomadas de decisões. 
+<p align="justify">A metodologia de desenvolvimento utilizada é o Scrum, uma metodologia ágil utilizada no desenvolvimento de Software baseada em processos iterativos e incrementais. 
+A equipe adaptou o Scrum levando em consideração as necessidades do projeto e a disponibilidade dos membros. A equipe se comunicou por meio de mensagens no WhatsApp e reuniões no Teams para tomadas de decisões. </p>
 
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos
-ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+<p align="justify">Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.</p>
 
 |Ambiente| Plataforma  |Link de Acesso |
 |--------------------|------------------------------------|----------------------------------------|
@@ -21,9 +20,9 @@ ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório.
+<p align="justify">A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório.
 
-Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura X. Dessa forma consegue organizar o código e a organização das versões. A interação da equipe de desenvolvedores também fica facilitada. 
+Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura X. Dessa forma consegue organizar o código e a organização das versões. A interação da equipe de desenvolvedores também fica facilitada.</p
 
 
 <p align="center">
@@ -50,8 +49,7 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 
 ### Divisão de Papéis
 
-A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do
-processo de desenvolvimento.
+<p align="justify">A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.</p>
 
 A equipe está organizada da seguinte maneira:
 ● Scrum Master: Victor  
@@ -66,9 +64,9 @@ A equipe está organizada da seguinte maneira:
 
 ### Processo
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello
-estruturado com as seguintes listas:
+<p align="justify">Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:</p>
 
+<p align="justify">
 ● Backlog: Essa lista é onde as tarefas de projetos são alocadas em cartões individuais. 
 
 ● A Fazer: Uma vez que a tarefa foi completamente aprofundada, ela é movida a essa lista para mostrar à equipe que a tarefa já está pronta para ser executada. A essa altura, um membro da equipe é designado para ser o dono da tarefa e as datas de entrega são estabelecidas.
@@ -77,7 +75,7 @@ estruturado com as seguintes listas:
 
 ● Revisão/Teste:  Quando a tarefa está quase concluída, é o momento de movê-la para esta lista para que seja revisada ou que alguém dê uma segunda olhada. 
 
-● Feito: Quando a tarefa tiver sido revisada e aprovada, ela é movida para cá.
+● Feito: Quando a tarefa tiver sido revisada e aprovada, ela é movida para cá.</p>
 
 
 
@@ -86,8 +84,7 @@ estruturado com as seguintes listas:
 </p>
 <p align="center">Figura 3 - Quadro Kaban</p>
 
-O quadro kanban do grupo no Trello está disponível através da URL
-https://trello.com/b/A3C9prOs/kanban e é apresentado, no estado atual, na Figura 2. 
+<p align="justify">O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/A3C9prOs/kanban e é apresentado, no estado atual, na Figura 2. </p>
 
 ### Ferramentas
 
