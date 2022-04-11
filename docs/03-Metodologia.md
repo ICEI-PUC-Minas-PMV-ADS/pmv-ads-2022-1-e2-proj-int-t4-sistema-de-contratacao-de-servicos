@@ -29,7 +29,7 @@ Para gestão do código fonte do software desenvolvido, o grupo utiliza um proce
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Controle%20Vers%C3%A3o.png">
 </p>
-<p align="center">Figura X - Fluxo de controle do código fonte no repositório git</p>
+<p align="center">Figura 1 - Fluxo de controle do código fonte no repositório git</p>
 
 O projeto segue a seguinte convenção para o nome de branches:
 
@@ -84,10 +84,10 @@ estruturado com as seguintes listas:
 <p align="center">
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Quadro%20Kaban.PNG">
 </p>
-<p align="center">Figura X - Quadro Kaban</p>
+<p align="center">Figura 2 - Quadro Kaban</p>
 
 O quadro kanban do grupo no Trello está disponível através da URL
-https://trello.com/b/A3C9prOs/kanban e é apresentado, no estado atual, na Figura X. 
+https://trello.com/b/A3C9prOs/kanban e é apresentado, no estado atual, na Figura 2. 
 
 ### Ferramentas
 

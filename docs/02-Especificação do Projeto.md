@@ -94,12 +94,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-08| O site deve permitir ao cliente realizar a avaliação do serviço prestado pelo fornecedor | Baixa|
 |RF-09| O site deve permitir ao fornecedor o recebimento online pelo serviços prestados |Alta| 
 |RF-10| O site deve permitir ao cliente visualizar o contato e as avaliações referentes aos fornecedores| Baixa|
-                                                                                    
-                                                                                  
-                                                                                                           
-                                                                         
-
-
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
@@ -132,13 +126,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02|A equipe de desenvolvimento não pode subcontratar o desenvolvimento do trabalho.|
 |03|A manipulação dos dados do sistema deve ser realizada através da linguagem de banco de dados SQL e armazenadas no SQL Server.|
 |04|O sistema deve conter um módulo de back-end.|
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
