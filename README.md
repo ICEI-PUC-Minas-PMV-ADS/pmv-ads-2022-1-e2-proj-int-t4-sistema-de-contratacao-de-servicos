@@ -6,7 +6,7 @@
 
 `Segundo periodo`
 
-O objetivo geral deste trabalho é a criação de solução tecnológica que visa aproximar os usuários que queiram contratar serviços domésticos aos profissionais cadastrados, oferecendo-lhes vários orçamentos para que possam escolher a melhor opção.
+<p align="justify">O objetivo geral deste trabalho é a criação de solução tecnológica que visa aproximar os usuários que queiram contratar serviços domésticos aos profissionais cadastrados, oferecendo-lhes vários orçamentos para que possam escolher a melhor opção.</p>
 
 
 
