@@ -1,4 +1,5 @@
 # Plano de Testes de Software
+<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
 Requisitos para realização dos testes:<br>
 • Site publicado na internet;<br>• Navegador de Internet ;<br>
@@ -52,12 +53,3 @@ Caso de Teste        |CT-07 - Realização do pagamento do cliente pelo serviço
 |Passos               |1: Acessar a aplicação;<br>2: Realizar o login como fornecedor;<br>3: Acessar a lista de serviços realizados;<br>4: Realizar o recebimento do pagamento.|
 |Critérios de êxito   |1: Êxito do fornecedor ao acessar a lista de serviços realizados.<br>2:  Êxito do fornecedor receber o pagamento.
 
-
-# Plano de Testes de Software
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
-
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
