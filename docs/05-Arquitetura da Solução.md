@@ -11,7 +11,7 @@ Segue abaixo o diagrama de classes deste projeto:
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/diagrama_de%20_classes.jpeg">
 </p>
-<p align="center">Figura 5 - Diagrama de Classes</p>
+<p align="center">Figura 6 - Diagrama de Classes</p>
 
 ## Modelo ER
 
@@ -37,7 +37,7 @@ A imagem abaixo demonstra a interação do usuário com o sistema, por onde ela 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/interacao_usuario.png"> </p>
-<p align="center">Figura 8 - Interação do usuário com o sistema</p>
+<p align="center">Figura 9 - Interação do usuário com o sistema</p>
 
 ## Hospedagem
 

@@ -1,65 +1,65 @@
 # Especificações do Projeto
 
-A especificação do projeto e os detalhes mais importantes a serem abordados nesta aplicação foram definidas com a participação de clientes e prestadores de serviços onde a necessidade de executar um reparo especifico com qualidade, preço justo e realizado por profissionais qualificados e capacitados, podendo destacar: instalações elétricas, hidráulicas, manutenções de eletrodomésticos, montagem de moveis entre outras. Para auxiliar na intermediação da mão de obra e execução desses serviços necessita-se a realização do desenvolvimento de uma que plataforma que intermedia os valores da mão de obra, formas de pagamento, data, horário e local entre os usuários do sistema. A especificação do projeto foi levantada a partir das experiencias de personas e histórias dos usuários.   
+<p align="justify">A especificação do projeto e os detalhes mais importantes a serem abordados nesta aplicação foram definidas com a participação de clientes e prestadores de serviços onde a necessidade de executar um reparo especifico com qualidade, preço justo e realizado por profissionais qualificados e capacitados, podendo destacar: instalações elétricas, hidráulicas, manutenções de eletrodomésticos, montagem de moveis entre outras. Para auxiliar na intermediação da mão de obra e execução desses serviços necessita-se a realização do desenvolvimento de uma que plataforma que intermedia os valores da mão de obra, formas de pagamento, data, horário e local entre os usuários do sistema. A especificação do projeto foi levantada a partir das experiencias de personas e histórias dos usuários.</p>   
 
 ## Personas:
-As personas que ajudaram na criação do processo de entendimento do problema são apresentadas que se seguem. 
+<p align="justify">As personas que ajudaram na criação do processo de entendimento do problema são apresentadas que se seguem. </p>
 
 ## Nome: Carloos Alberto Silva
-Idade: 65 anos.
+<p align="justify">Idade: 65 anos.
 Ocupação: Aposentado.
 Aplicativos: Facebook, Instagram, WhatsApp.
 Motivações: Ter um reparo com eficiência e qualidade nas instalações hidráulicas de sua residência por um preço justo.
 Frustações: Problema na instalação hidráulica que resulta em vazamento de água. 
-Hobbies e Historias: Viajar, Dançar forró (pé de serra).
+Hobbies e Historias: Viajar, Dançar forró (pé de serra).</p>
 
 ## Nome: José Carlos
-Idade: 25 anos.
+<p align="justify">Idade: 25 anos.
 Ocupação: Bombeiro hidráulico e Eletricista.
 Aplicativos: Facebook, Instagram, WhatsApp.
 Motivações: Prestar serviços com qualidade, Adquirir novos Clientes e novas experiências, garantia de recebimento pelo serviço prestado. 
 Frustações:Dificuldade em captar novos clientes para seu negócio, não recebimento pelo serviço prestado.
-Hobbies e Historias: Ir ao cinema, ajudar uma ONG.
+Hobbies e Historias: Ir ao cinema, ajudar uma ONG.</p>
 
 ## Nome: Rafael Silva 
-Idade: 49 anos .
+<p align="justify">Idade: 49 anos .
 Ocupação: Administrador do sistema.
 Aplicativos: Telegram, Facebook, Instagram, MYSQLservar, Visual code, .NET. 
 Motivações: Administrar o sistema fazer correções de bugs para garantir a qualidade do sistema cadastrar as informações e gerenciá-las. 
 Frustações: A não funcionalidade do sistema. 
-Hobbies e Historias: Fazer trilha, Tocar violão. 
+Hobbies e Historias: Fazer trilha, Tocar violão. </p>
 
 ## Nome: Ana Clara 
-Idade: 40 anos.
+<p align="justify">Idade: 40 anos.
 Ocupação: Dona de casa.
 Aplicativos: WhatsApp.
 Motivações: Montagem da nova estante, rapidez e qualidade e bom acabamento.
 Frustações: Não conseguir bom montador dentro do curto espaço de tempo. 
-Hobbies e Historias: Ver series, Se divertir com a família. 
+Hobbies e Historias: Ver series, Se divertir com a família. </p>
 
 ## Nome: André Araújo
-Idade: 35 anos.
+<p align="justify">Idade: 35 anos.
 Ocupação: Montador de moveis.
 Aplicativos: WhatsApp, Facebook ,Instagram.
 Motivações: Prestar serviços com qualidade, Adquirir novos Clientes e novas experiências, garantia de recebimento pelo serviço prestado.
 Frustações: Dificuldade em captar novos clientes para seu negócio, não recebimento pelo serviço prestado.
-Hobbies e Historias: curtir com a família, viajar, Fazer exercícios físicos na acadêmica.
+Hobbies e Historias: curtir com a família, viajar, Fazer exercícios físicos na acadêmica.</p>
 
 ## Nome: Julia Maria 
-Idade: 42 anos.
+<p align="justify">Idade: 42 anos.
 Ocupação: Advogada.
 Aplicativos: WhatsApp, Facebook, Instagram. 
 Motivações: Babá com boas recomendações, sua filha bem cuidada enquanto realiza seus compromissos. 
 Frustações: Não poder comparecer ao compromisso no horário marcado.
-Hobbies e Historias: Passeios com a família, Caminhadas.
+Hobbies e Historias: Passeios com a família, Caminhadas.</p>
 
 ## Nome: Marcia Oliveira 
-Idade: 28 anos.
+<p align="justify">Idade: 28 anos.
 Ocupação: Baba.
 Aplicativos: WhatsApp, Facebook, Instagram. 
 Motivações: Prestar um bom atendimento aos clientes. 
 Frustações: Não ter uma boa reputação para os serviços prestados. 
-Hobbies e Historias: Ler livros, Serviços Voluntários. 
+Hobbies e Historias: Ler livros, Serviços Voluntários. </p>
 
 
 ## Histórias de Usuários
@@ -78,7 +78,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+<p align="justify">As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.</p>
 
 ### Requisitos Funcionais
 
@@ -101,7 +101,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+<p align="justify">Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:</p>
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
@@ -131,6 +131,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 ![diagrama 2](https://user-images.githubusercontent.com/93413365/160945983-90031405-1c96-4f23-b36d-18d2efef5a8f.jpg)
+<p align="center">Figura 1 - Diagrama de Casos de Uso</p>
 
 
 
