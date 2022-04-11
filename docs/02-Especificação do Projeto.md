@@ -6,60 +6,60 @@
 <p align="justify">As personas que ajudaram na criação do processo de entendimento do problema são apresentadas que se seguem. </p>
 
 ## Nome: Carloos Alberto Silva
-<p align="justify">Idade: 65 anos.
-Ocupação: Aposentado.
-Aplicativos: Facebook, Instagram, WhatsApp.
-Motivações: Ter um reparo com eficiência e qualidade nas instalações hidráulicas de sua residência por um preço justo.
-Frustações: Problema na instalação hidráulica que resulta em vazamento de água. 
-Hobbies e Historias: Viajar, Dançar forró (pé de serra).</p>
+ - Idade: 65 anos.
+ - Ocupação: Aposentado.
+ - Aplicativos: Facebook, Instagram, WhatsApp.
+ - Motivações: Ter um reparo com eficiência e qualidade nas instalações hidráulicas de sua residência por um preço justo.
+ - Frustações: Problema na instalação hidráulica que resulta em vazamento de água. 
+ - Hobbies e Historias: Viajar, Dançar forró (pé de serra).
 
 ## Nome: José Carlos
-<p align="justify">Idade: 25 anos.
-Ocupação: Bombeiro hidráulico e Eletricista.
-Aplicativos: Facebook, Instagram, WhatsApp.
-Motivações: Prestar serviços com qualidade, Adquirir novos Clientes e novas experiências, garantia de recebimento pelo serviço prestado. 
-Frustações:Dificuldade em captar novos clientes para seu negócio, não recebimento pelo serviço prestado.
-Hobbies e Historias: Ir ao cinema, ajudar uma ONG.</p>
+ - Idade: 25 anos.
+ - Ocupação: Bombeiro hidráulico e Eletricista.
+ - Aplicativos: Facebook, Instagram, WhatsApp.
+ - Motivações: Prestar serviços com qualidade, Adquirir novos Clientes e novas experiências, garantia de recebimento pelo serviço prestado. 
+ - Frustações:Dificuldade em captar novos clientes para seu negócio, não recebimento pelo serviço prestado.
+ - Hobbies e Historias: Ir ao cinema, ajudar uma ONG.
 
 ## Nome: Rafael Silva 
-<p align="justify">Idade: 49 anos .
-Ocupação: Administrador do sistema.
-Aplicativos: Telegram, Facebook, Instagram, MYSQLservar, Visual code, .NET. 
-Motivações: Administrar o sistema fazer correções de bugs para garantir a qualidade do sistema cadastrar as informações e gerenciá-las. 
-Frustações: A não funcionalidade do sistema. 
-Hobbies e Historias: Fazer trilha, Tocar violão. </p>
+ - Idade: 49 anos .
+ - Ocupação: Administrador do sistema.
+ - Aplicativos: Telegram, Facebook, Instagram, MYSQLservar, Visual code, .NET. 
+ - Motivações: Administrar o sistema fazer correções de bugs para garantir a qualidade do sistema cadastrar as informações e gerenciá-las. 
+ - Frustações: A não funcionalidade do sistema. 
+ - Hobbies e Historias: Fazer trilha, Tocar violão.
 
 ## Nome: Ana Clara 
-<p align="justify">Idade: 40 anos.
-Ocupação: Dona de casa.
-Aplicativos: WhatsApp.
-Motivações: Montagem da nova estante, rapidez e qualidade e bom acabamento.
-Frustações: Não conseguir bom montador dentro do curto espaço de tempo. 
-Hobbies e Historias: Ver series, Se divertir com a família. </p>
+ - Idade: 40 anos.
+ - Ocupação: Dona de casa.
+ - Aplicativos: WhatsApp.
+ - Motivações: Montagem da nova estante, rapidez e qualidade e bom acabamento.
+ - Frustações: Não conseguir bom montador dentro do curto espaço de tempo. 
+ - Hobbies e Historias: Ver series, Se divertir com a família. 
 
 ## Nome: André Araújo
-<p align="justify">Idade: 35 anos.
-Ocupação: Montador de moveis.
-Aplicativos: WhatsApp, Facebook ,Instagram.
-Motivações: Prestar serviços com qualidade, Adquirir novos Clientes e novas experiências, garantia de recebimento pelo serviço prestado.
-Frustações: Dificuldade em captar novos clientes para seu negócio, não recebimento pelo serviço prestado.
-Hobbies e Historias: curtir com a família, viajar, Fazer exercícios físicos na acadêmica.</p>
+ - Idade: 35 anos.
+ - Ocupação: Montador de moveis.
+ - Aplicativos: WhatsApp, Facebook ,Instagram.
+ - Motivações: Prestar serviços com qualidade, Adquirir novos Clientes e novas experiências, garantia de recebimento pelo serviço prestado.
+ - Frustações: Dificuldade em captar novos clientes para seu negócio, não recebimento pelo serviço prestado.
+ - Hobbies e Historias: curtir com a família, viajar, Fazer exercícios físicos na acadêmica.
 
 ## Nome: Julia Maria 
-<p align="justify">Idade: 42 anos.
-Ocupação: Advogada.
-Aplicativos: WhatsApp, Facebook, Instagram. 
-Motivações: Babá com boas recomendações, sua filha bem cuidada enquanto realiza seus compromissos. 
-Frustações: Não poder comparecer ao compromisso no horário marcado.
+ - Idade: 42 anos.
+ - Ocupação: Advogada.
+ - Aplicativos: WhatsApp, Facebook, Instagram. 
+ - Motivações: Babá com boas recomendações, sua filha bem cuidada enquanto realiza seus compromissos. 
+ - Frustações: Não poder comparecer ao compromisso no horário marcado.
 Hobbies e Historias: Passeios com a família, Caminhadas.</p>
 
 ## Nome: Marcia Oliveira 
-<p align="justify">Idade: 28 anos.
-Ocupação: Baba.
-Aplicativos: WhatsApp, Facebook, Instagram. 
-Motivações: Prestar um bom atendimento aos clientes. 
-Frustações: Não ter uma boa reputação para os serviços prestados. 
-Hobbies e Historias: Ler livros, Serviços Voluntários. </p>
+ - Idade: 28 anos.
+ - Ocupação: Baba.
+ - Aplicativos: WhatsApp, Facebook, Instagram. 
+ - Motivações: Prestar um bom atendimento aos clientes. 
+ - Frustações: Não ter uma boa reputação para os serviços prestados. 
+ - Hobbies e Historias: Ler livros, Serviços Voluntários. </p>
 
 
 ## Histórias de Usuários

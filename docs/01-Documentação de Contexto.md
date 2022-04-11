@@ -30,7 +30,8 @@ O site proposto neste projeto está incluído nesse contexto atual de pandemia/p
 ## Público-Alvo
 
 #### Fornecedores de serviços:
- - Profissionais autônomos: pintores, marceneiros, encanadores </p>- Pessoas que procuram renda-extra e estão dispostas a realizar serviços mais simples, que não requerem demasiado conhecimento específico, como montagem de moveis;
+ - Profissionais autônomos: pintores, marceneiros, encanadores 
+ - Pessoas que procuram renda-extra e estão dispostas a realizar serviços mais simples, que não requerem demasiado conhecimento específico, como montagem de moveis;
  - Pequenas empresas que desejem ser mais conhecidas na sua região de atuação;
 Esse grupo terá um meio de divulgação de seus serviços de uma forma mais direcionada aos clientes de sua região. Isso poderá resultar também em diminuição de gastos com transporte/combustível até o lugar de realização do serviço.
 
@@ -39,7 +40,7 @@ Esse grupo terá um meio de divulgação de seus serviços de uma forma mais dir
 
  - Qualquer pessoa interessada em contratar os serviços de manutenção e reparos citados anteriormente. 
 
-<p align="justify">Alguns exemplos são pessoas que dispõe de pouco tempo para realizar esses serviços, que não querem ter a preocupação de montar seu móvel novo, que não tem o conhecimento de como realizar serviços mais específicos como de pintura e instalação de ar-condicionado etc.
+<p align="justify"> Alguns exemplos são pessoas que dispõe de pouco tempo para realizar esses serviços, que não querem ter a preocupação de montar seu móvel novo, que não tem o conhecimento de como realizar serviços mais específicos como de pintura e instalação de ar-condicionado etc.
 Esse grupo será diretamente beneficiado pelo site, pois terá de forma mais acessível e centralizada, na internet, a disponibilização de prestadores de serviços da sua região.
 </p>
 
