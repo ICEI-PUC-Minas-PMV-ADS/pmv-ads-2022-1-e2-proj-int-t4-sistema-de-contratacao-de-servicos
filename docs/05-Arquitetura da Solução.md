@@ -22,7 +22,7 @@ Segue abaixo o modelo de entidade relacional deste projeto:
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/MER.jpg">
 </p>
-<p align="center">Figura XI - Modelo de Entidade Relacional</p>
+<p align="center">Figura 7 - Modelo de Entidade Relacional</p>
 
 ## Esquema Relacional
 
@@ -33,7 +33,7 @@ Segue abaixo o esquema relacional deste projeto:
 <p align="center">
   <img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/main/docs/img/ER.png">
 </p>
-<p align="center">Figura XII - Esquema Relacional</p>
+<p align="center">Figura 8 - Esquema Relacional</p>
 
 ## Tecnologias Utilizadas
 
