@@ -18,11 +18,11 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 |Entrega do serviço e Recebimento|O usuário fornecedor devera imitir recibo de entrega serviço e receber pagamento| RF-09 ||
 
 ![Exemplo de Diagrama de Fluxo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Diagrama%20de%20Fluxo%20de%20Usu%C3%A1rio.jpeg)
-<p align="center">Figura 3  - Diagrama de Fluxo</p>
+<p align="center">Figura 4  - Diagrama de Fluxo</p>
 
 ## Wireframes
 
 O wireframe apresenta o fluxo visual do procedimento passo a passo, baseado no fluxograma acima. Para a criação do wireframe foi utlizado Excalidraw.
 
 ![Wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Wireframe.png)
-<p align="center">Figura 4 - Wireframe </p>
+<p align="center">Figura 5 - Wireframe </p>
