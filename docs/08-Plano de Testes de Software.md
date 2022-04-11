@@ -36,19 +36,19 @@ Caso de Teste        |CT-04 - Avaliação do serviço prestado, visualização d
 
 Caso de Teste        |CT-05 - Envio do orçamento.|
 |---------------------|----------------------------------------------------------------|
-|Requisitos atendidos   |RF - 004: O site deve permitir ao fornecedor enviar proposta.	 |
+|Requisitos atendidos   |RF - 004: O site deve permitir ao fornecedor enviar proposta.	                                                       |
 |Passos               |1: Acessar a aplicação;<br>2: Realizar o login como fornecedor;<br>3: Acessar a lista de pedidos pendentes de orçamento;<br>4: Realizar o orçamento e enviar.|
 |Critérios de êxito   |1: Êxito do fornecedor ao visualizar os pedidos pendentes de orçamentos.<br>2:  Êxito do fornecedor ao enviar o orçamento.
 
 Caso de Teste        |CT-06 - Realização do pagamento do cliente pelo serviço agendado.|
 |---------------------|----------------------------------------------------------------|
-|Requisitos atendidos   |RF - 007: O site deve permitir ao cliente efetuar o pagamento pelo serviço(s) prestado(s).		 |
+|Requisitos atendidos   |RF - 007: O site deve permitir ao cliente efetuar o pagamento pelo serviço(s) prestado(s).	                                               |
 |Passos               |1: Acessar a aplicação;<br>2: Realizar o login como cliente;<br>3: Acessar a lista de serviços agendados;<br>4: selecionar o serviço desejado;<br>5: efetuar o pagamento.|
 |Critérios de êxito   |1: Êxito do cliente ao acessar a lista de serviços agendados.<br>2:  Êxito do cliente efetuar o pagamento.
 
 Caso de Teste        |CT-07 - Realização do pagamento do cliente pelo serviço agendado.|
 |---------------------|----------------------------------------------------------------|
-|Requisitos atendidos   |RF - 009: O site deve permitir ao fornecedor o recebimento online pelo serviços prestados.		 |
+|Requisitos atendidos   |RF - 009: O site deve permitir ao fornecedor o recebimento online pelo serviços prestados.		                                               	 |
 |Passos               |1: Acessar a aplicação;<br>2: Realizar o login como fornecedor;<br>3: Acessar a lista de serviços realizados;<br>4: Realizar o recebimento do pagamento.|
 |Critérios de êxito   |1: Êxito do fornecedor ao acessar a lista de serviços realizados.<br>2:  Êxito do fornecedor receber o pagamento.
 
