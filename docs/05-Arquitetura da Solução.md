@@ -37,7 +37,7 @@ Segue abaixo o esquema relacional deste projeto:</p>
 
 ## Tecnologias Utilizadas
 
-<p align="center">As linguagens utilizadas, no front-end, para solução do problema serão: HTML, CSS, JavaScript. Para o back-end, tanto a linguagem e framework utilizados serão selecionados posteriormente. Durante o desenvolvimento serão priorizadas o uso de ferramentas alternativas gratuitas de tecnologia, dentre elas: Trello, Miro, LucidChart e Figma, como especificando anteriormente na metodologia.
+<p align="justify">As linguagens utilizadas, no front-end, para solução do problema serão: HTML, CSS, JavaScript. Para o back-end, tanto a linguagem e framework utilizados serão selecionados posteriormente. Durante o desenvolvimento serão priorizadas o uso de ferramentas alternativas gratuitas de tecnologia, dentre elas: Trello, Miro, LucidChart e Figma, como especificando anteriormente na metodologia.
 A IDE de desenvolvimento utilizada será o Visual Studio.O Sistema Gerenciador de Banco de Dados (SGBD) utilizado nesse projeto será o  MySQL, que trabalha com a linguagem SQL.
 A imagem abaixo demonstra a interação do usuário com o sistema, por onde ela passa até retornar uma resposta ao usuário:</p>
 
