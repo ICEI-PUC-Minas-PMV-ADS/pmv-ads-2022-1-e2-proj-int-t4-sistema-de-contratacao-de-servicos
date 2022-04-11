@@ -22,7 +22,7 @@ A equipe adaptou o Scrum levando em consideração as necessidades do projeto e 
 
 <p align="justify">A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório.
 
-Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura X. Dessa forma consegue organizar o código e a organização das versões. A interação da equipe de desenvolvedores também fica facilitada.</p
+Para gestão do código fonte do software desenvolvido, o grupo utiliza um processo baseado no Git Flow, como mostra a Figura X. Dessa forma consegue organizar o código e a organização das versões. A interação da equipe de desenvolvedores também fica facilitada.</p>
 
 
 <p align="center">
