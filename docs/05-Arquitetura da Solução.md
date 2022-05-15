@@ -50,7 +50,7 @@ A imagem abaixo demonstra a interação do usuário com o sistema, por onde ela 
 ## Hospedagem
 
 <p align="justify">
-O site utilizará o AZURE para a hospedagem da API do projeto.
+O site será hospedado na plataforma Firebase (front-end) e utilizará o AZURE para a hospedagem da API do projeto (back-end).
 
 
 </p>

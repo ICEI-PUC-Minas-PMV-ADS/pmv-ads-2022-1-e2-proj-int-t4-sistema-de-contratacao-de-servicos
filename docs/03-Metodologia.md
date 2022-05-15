@@ -78,20 +78,14 @@ A equipe está organizada da seguinte maneira:
 ● Feito: Quando a tarefa tiver sido revisada e aprovada, ela é movida para cá.</p>
 
 
-
-<p align="center">
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Quadro%20Kaban.PNG">
-</p>
-<p align="center">Figura 3 - Quadro Kaban</p>
-
-<p align="justify">O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/A3C9prOs/kanban e é apresentado, no estado atual, na Figura 2. </p>
+<p align="justify">O quadro kanban utilizado pelo grupo está disponível no Github do projeto na aba Projects e pode ser acessado através da URL https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/projects/1  </p>
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-Editor de código: Visual Studio Cod     
-Ferramentas de comunicação: Microsoft Teams e WhatsApp     
+Editor de código: Visual Studio
+Ferramentas de comunicação: Microsoft Teams e WhatsApp
 Ferramentas para criação de diagramas: Lucidchart, modelo Entidade
-Ferramentas de desenho de tela (wireframing): figma
+Ferramentas de desenho de tela (wireframing): Figma
  
