@@ -39,7 +39,7 @@ Segue abaixo o esquema relacional deste projeto:</p>
 
 <p align="justify">Para a para solução do problema serão utilizados o Angular, HTML, CSS e JavaScript  no front-end.
 Para o back-end, a linguagem de programação utilizada será a C# (C Sharp), e como framework utilizaremos a API Web do ASP.NET Core.
-Utilizaremos o Visual Studio como IDE de desenvolvimento, e como Sistema Gerenciador de Banco de Dados (SGBD) utilizaremos o  MySQL.
+Utilizaremos o Visual Studio como IDE de desenvolvimento, e como Sistema Gerenciador de Banco de Dados (SGBD) utilizaremos o  SQL Server.
 Durante o desenvolvimento serão priorizadas o uso de ferramentas alternativas gratuitas de tecnologia, dentre elas: Trello, Miro, LucidChart e Figma, como especificando anteriormente na metodologia.
 A imagem abaixo demonstra a interação do usuário com o sistema, por onde ela passa até retornar uma resposta ao usuário:</p>
 
@@ -49,8 +49,10 @@ A imagem abaixo demonstra a interação do usuário com o sistema, por onde ela 
 
 ## Hospedagem
 
-<p align="justify">O site utilizará a plataforma do GitHub Pages como ambiente de hospedagem do site do projeto.
+<p align="justify">
+O site utilizará o AZURE para a hospedagem da API do projeto.
 
-A publicação do site no GitHub Pages será feita por meio de uma submissão do projeto (push) via git para o repositório remoto onde o site será hospedado.</p>
+
+</p>
 
 
