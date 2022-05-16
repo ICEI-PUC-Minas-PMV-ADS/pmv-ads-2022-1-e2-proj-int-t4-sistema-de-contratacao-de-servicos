@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "service-admin-e3cfe": {
+      "hosting": {
+        "service-admin": [
+          "service-admin-e3cfe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "service-admin-e3cfe"
+  }
+}
