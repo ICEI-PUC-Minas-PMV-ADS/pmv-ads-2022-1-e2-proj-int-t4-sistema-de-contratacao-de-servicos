@@ -11,6 +11,7 @@ import { AngularFirestoreModule } from '@angular/fire/compat/firestore';
 import { PERSISTENCE, SETTINGS as AUTH_SETTINGS, AngularFireAuthModule } from '@angular/fire/compat/auth';
 import { AngularFireModule } from '@angular/fire/compat';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     provideFirestore(() => getFirestore()),
     AngularFireAuthModule,
     AngularFirestoreModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    HttpClientModule
   ],
   providers: [
     { provide: PERSISTENCE, useValue: 'session' },
