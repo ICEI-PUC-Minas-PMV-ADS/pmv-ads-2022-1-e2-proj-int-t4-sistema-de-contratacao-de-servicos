@@ -15,5 +15,7 @@ namespace api_contratos_servicos.Context
         public DbSet<Cliente>? clientes { get; set; }
 
         public DbSet<Fornecedor>? Fornecedores { get; set; }
+
+        public DbSet<api_contratos_servicos.Models.Pedido>? Pedido { get; set; }
     }
 }
