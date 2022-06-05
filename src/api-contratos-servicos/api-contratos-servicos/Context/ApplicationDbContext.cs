@@ -19,5 +19,7 @@ namespace api_contratos_servicos.Context
         public DbSet<api_contratos_servicos.Models.Pedido>? Pedido { get; set; }
 
         public DbSet<api_contratos_servicos.Models.Servico>? Servico { get; set; }
+
+        public DbSet<api_contratos_servicos.Models.TipoServico>? TipoServico { get; set; }
     }
 }
