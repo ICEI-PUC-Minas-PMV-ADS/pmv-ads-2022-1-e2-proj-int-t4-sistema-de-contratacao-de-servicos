@@ -12,55 +12,55 @@ namespace api_contratos_servicos.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PedidosController : ControllerBase
+    public class OrcamentosController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
 
-        public PedidosController(ApplicationDbContext context)
+        public OrcamentosController(ApplicationDbContext context)
         {
             _context = context;
         }
 
-        // GET: api/Pedidos
+        // GET: api/Orcamentos
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Pedido>>> GetPedido()
+        public async Task<ActionResult<IEnumerable<Orcamento>>> GetOrcamento()
         {
-          if (_context.Pedidos == null)
+          if (_context.Orcamentos == null)
           {
               return NotFound();
           }
-            return await _context.Pedidos.ToListAsync();
+            return await _context.Orcamentos.ToListAsync();
         }
 
-        // GET: api/Pedidos/5
+        // GET: api/Orcamentos/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Pedido>> GetPedido(int id)
+        public async Task<ActionResult<Orcamento>> GetOrcamento(int id)
         {
-          if (_context.Pedidos == null)
+          if (_context.Orcamentos == null)
           {
               return NotFound();
           }
-            var pedido = await _context.Pedidos.FindAsync(id);
+            var orcamento = await _context.Orcamentos.FindAsync(id);
 
-            if (pedido == null)
+            if (orcamento == null)
             {
                 return NotFound();
             }
 
-            return pedido;
+            return orcamento;
         }
 
-        // PUT: api/Pedidos/5
+        // PUT: api/Orcamentos/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutPedido(int id, Pedido pedido)
+        public async Task<IActionResult> PutOrcamento(int id, Orcamento orcamento)
         {
-            if (id != pedido.Id)
+            if (id != orcamento.Id)
             {
                 return BadRequest();
             }
 
-            _context.Entry(pedido).State = EntityState.Modified;
+            _context.Entry(orcamento).State = EntityState.Modified;
 
             try
             {
@@ -68,7 +68,7 @@ namespace api_contratos_servicos.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!PedidoExists(id))
+                if (!OrcamentoExists(id))
                 {
                     return NotFound();
                 }
@@ -81,44 +81,44 @@ namespace api_contratos_servicos.Controllers
             return NoContent();
         }
 
-        // POST: api/Pedidos
+        // POST: api/Orcamentos
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Pedido>> PostPedido(Pedido pedido)
+        public async Task<ActionResult<Orcamento>> PostOrcamento(Orcamento orcamento)
         {
-          if (_context.Pedidos == null)
+          if (_context.Orcamentos == null)
           {
-              return Problem("Entity set 'ApplicationDbContext.Pedidos'  is null.");
+              return Problem("Entity set 'ApplicationDbContext.Orcamentos'  is null.");
           }
-            _context.Pedidos.Add(pedido);
+            _context.Orcamentos.Add(orcamento);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetPedido", new { id = pedido.Id }, pedido);
+            return CreatedAtAction("GetOrcamento", new { id = orcamento.Id }, orcamento);
         }
 
-        // DELETE: api/Pedidos/5
+        // DELETE: api/Orcamentos/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeletePedido(int id)
+        public async Task<IActionResult> DeleteOrcamento(int id)
         {
-            if (_context.Pedidos == null)
+            if (_context.Orcamentos == null)
             {
                 return NotFound();
             }
-            var pedido = await _context.Pedidos.FindAsync(id);
-            if (pedido == null)
+            var orcamento = await _context.Orcamentos.FindAsync(id);
+            if (orcamento == null)
             {
                 return NotFound();
             }
 
-            _context.Pedidos.Remove(pedido);
+            _context.Orcamentos.Remove(orcamento);
             await _context.SaveChangesAsync();
 
             return NoContent();
         }
 
-        private bool PedidoExists(int id)
+        private bool OrcamentoExists(int id)
         {
-            return (_context.Pedidos?.Any(e => e.Id == id)).GetValueOrDefault();
+            return (_context.Orcamentos?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }

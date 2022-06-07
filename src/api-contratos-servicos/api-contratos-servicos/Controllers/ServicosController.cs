@@ -12,55 +12,55 @@ namespace api_contratos_servicos.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PedidosController : ControllerBase
+    public class ServicosController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
 
-        public PedidosController(ApplicationDbContext context)
+        public ServicosController(ApplicationDbContext context)
         {
             _context = context;
         }
 
-        // GET: api/Pedidos
+        // GET: api/Servicos
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Pedido>>> GetPedido()
+        public async Task<ActionResult<IEnumerable<Servico>>> GetServico()
         {
-          if (_context.Pedidos == null)
+          if (_context.Servicos == null)
           {
               return NotFound();
           }
-            return await _context.Pedidos.ToListAsync();
+            return await _context.Servicos.ToListAsync();
         }
 
-        // GET: api/Pedidos/5
+        // GET: api/Servicos/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Pedido>> GetPedido(int id)
+        public async Task<ActionResult<Servico>> GetServico(int id)
         {
-          if (_context.Pedidos == null)
+          if (_context.Servicos == null)
           {
               return NotFound();
           }
-            var pedido = await _context.Pedidos.FindAsync(id);
+            var servico = await _context.Servicos.FindAsync(id);
 
-            if (pedido == null)
+            if (servico == null)
             {
                 return NotFound();
             }
 
-            return pedido;
+            return servico;
         }
 
-        // PUT: api/Pedidos/5
+        // PUT: api/Servicos/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutPedido(int id, Pedido pedido)
+        public async Task<IActionResult> PutServico(int id, Servico servico)
         {
-            if (id != pedido.Id)
+            if (id != servico.Id)
             {
                 return BadRequest();
             }
 
-            _context.Entry(pedido).State = EntityState.Modified;
+            _context.Entry(servico).State = EntityState.Modified;
 
             try
             {
@@ -68,7 +68,7 @@ namespace api_contratos_servicos.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!PedidoExists(id))
+                if (!ServicoExists(id))
                 {
                     return NotFound();
                 }
@@ -81,44 +81,44 @@ namespace api_contratos_servicos.Controllers
             return NoContent();
         }
 
-        // POST: api/Pedidos
+        // POST: api/Servicos
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Pedido>> PostPedido(Pedido pedido)
+        public async Task<ActionResult<Servico>> PostServico(Servico servico)
         {
-          if (_context.Pedidos == null)
+          if (_context.Servicos == null)
           {
-              return Problem("Entity set 'ApplicationDbContext.Pedidos'  is null.");
+              return Problem("Entity set 'ApplicationDbContext.Servicos'  is null.");
           }
-            _context.Pedidos.Add(pedido);
+            _context.Servicos.Add(servico);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetPedido", new { id = pedido.Id }, pedido);
+            return CreatedAtAction("GetServico", new { id = servico.Id }, servico);
         }
 
-        // DELETE: api/Pedidos/5
+        // DELETE: api/Servicos/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeletePedido(int id)
+        public async Task<IActionResult> DeleteServico(int id)
         {
-            if (_context.Pedidos == null)
+            if (_context.Servicos == null)
             {
                 return NotFound();
             }
-            var pedido = await _context.Pedidos.FindAsync(id);
-            if (pedido == null)
+            var servico = await _context.Servicos.FindAsync(id);
+            if (servico == null)
             {
                 return NotFound();
             }
 
-            _context.Pedidos.Remove(pedido);
+            _context.Servicos.Remove(servico);
             await _context.SaveChangesAsync();
 
             return NoContent();
         }
 
-        private bool PedidoExists(int id)
+        private bool ServicoExists(int id)
         {
-            return (_context.Pedidos?.Any(e => e.Id == id)).GetValueOrDefault();
+            return (_context.Servicos?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }

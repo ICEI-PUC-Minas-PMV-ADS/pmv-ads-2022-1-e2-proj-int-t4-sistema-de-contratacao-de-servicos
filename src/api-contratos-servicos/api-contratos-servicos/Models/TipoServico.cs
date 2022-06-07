@@ -3,17 +3,14 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace api_contratos_servicos.Models
 {
-    [Table("tipo servico")]
+    [Table("TipoServico")]
     public class TipoServico
     {
         [Key]
         public int Id { get; set; }
 
-        [Required(ErrorMessage = "Obrigatório Informar o Nome do Serviço")]
-        public string NomeServico { get; set; }
-
-        [Required(ErrorMessage = "Obrigatório Informar a Descrição do Serviço")]
-        public string DescricaoServico { get; set; }
+        [Required(ErrorMessage = "Obrigatório Informar a Descricao do Tipo de Serviço!")]
+        public string descricaoServico { get; set; }
 
     }
 }

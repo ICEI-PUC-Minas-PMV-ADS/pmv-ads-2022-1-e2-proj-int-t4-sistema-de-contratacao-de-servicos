@@ -1,24 +1,22 @@
 ﻿namespace api_contratos_servicos.Models.Dto
 {
-    
-    public class UsuarioDTO
+    public class UsuarioRespostaDTO
     {
+
+        public int Id { get; set; }
+
         public string Nome { get; set; }
 
         public string Email { get; set; }
 
-        public string Senha { get; set; }
-
-
-
-        public UsuarioDTO(string Nome, string Email, string Senha)
+        public UsuarioRespostaDTO(int Id, string Nome, string Email)
         {
+            this.Id = Id;
             this.Nome = Nome;
             this.Email = Email;
-            this.Senha = Senha;
         }
 
-        public UsuarioDTO()
+        public UsuarioRespostaDTO()
         {
         }
 
@@ -27,10 +25,10 @@
             var usuario = new Usuario();
             usuario.Email = Email;
             usuario.Nome = Nome;
+            usuario.Id = Id;
 
             return usuario;
         }
     }
-
 
 }

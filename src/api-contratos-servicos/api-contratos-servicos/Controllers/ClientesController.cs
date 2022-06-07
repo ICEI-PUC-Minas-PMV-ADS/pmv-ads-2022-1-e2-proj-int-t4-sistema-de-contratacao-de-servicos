@@ -25,22 +25,22 @@ namespace api_contratos_servicos.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Cliente>>> Getclientes()
         {
-          if (_context.clientes == null)
+          if (_context.Clientes == null)
           {
               return NotFound();
           }
-            return await _context.clientes.ToListAsync();
+            return await _context.Clientes.ToListAsync();
         }
 
         // GET: api/Clientes/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Cliente>> GetCliente(int id)
         {
-          if (_context.clientes == null)
+          if (_context.Clientes == null)
           {
               return NotFound();
           }
-            var cliente = await _context.clientes.FindAsync(id);
+            var cliente = await _context.Clientes.FindAsync(id);
 
             if (cliente == null)
             {
@@ -86,11 +86,11 @@ namespace api_contratos_servicos.Controllers
         [HttpPost]
         public async Task<ActionResult<Cliente>> PostCliente(Cliente cliente)
         {
-          if (_context.clientes == null)
+          if (_context.Clientes == null)
           {
               return Problem("Entity set 'ApplicationDbContext.clientes'  is null.");
           }
-            _context.clientes.Add(cliente);
+            _context.Clientes.Add(cliente);
             await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetCliente", new { id = cliente.Id }, cliente);
@@ -100,17 +100,17 @@ namespace api_contratos_servicos.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCliente(int id)
         {
-            if (_context.clientes == null)
+            if (_context.Clientes == null)
             {
                 return NotFound();
             }
-            var cliente = await _context.clientes.FindAsync(id);
+            var cliente = await _context.Clientes.FindAsync(id);
             if (cliente == null)
             {
                 return NotFound();
             }
 
-            _context.clientes.Remove(cliente);
+            _context.Clientes.Remove(cliente);
             await _context.SaveChangesAsync();
 
             return NoContent();
@@ -118,7 +118,7 @@ namespace api_contratos_servicos.Controllers
 
         private bool ClienteExists(int id)
         {
-            return (_context.clientes?.Any(e => e.Id == id)).GetValueOrDefault();
+            return (_context.Clientes?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
 }

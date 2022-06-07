@@ -25,7 +25,7 @@ namespace api_contratos_servicos.Controllers
 
         [Route("login")]
         [HttpPost]
-        public async Task<ActionResult<UsuarioDTO>> Login([Bind("Email,Senha")]  UsuarioLogin usuario)
+        public async Task<ActionResult<UsuarioRespostaDTO>> Login([Bind("Email,Senha")]  UsuarioLogin usuario)
         {
             if (usuario == null)
             {
@@ -44,14 +44,14 @@ namespace api_contratos_servicos.Controllers
                 return NotFound();
             }
 
-            return new UsuarioDTO(usuarioLogado.Id, usuarioLogado.Nome, usuarioLogado.Email);
+            return new UsuarioRespostaDTO(usuarioLogado.Id, usuarioLogado.Nome, usuarioLogado.Email);
 
         }
 
 
         [Route("cadastrar")]
         [HttpPost]
-        public async Task<ActionResult<UsuarioDTO>> Cadastrar([Bind("Nome,Email")] UsuarioDTO usuario)
+        public async Task<ActionResult<UsuarioRespostaDTO>> Cadastrar([Bind("Nome,Email,Senha")] UsuarioDTO usuario)
         {
             if (usuario == null)
             {
@@ -67,13 +67,14 @@ namespace api_contratos_servicos.Controllers
 
             if (!(novoUsuario == null))
             {
-                return CreatedAtAction("GetUsuario", new { id = novoUsuario.Id }, novoUsuario);
+                return new UsuarioRespostaDTO(novoUsuario.Id, novoUsuario.Nome, novoUsuario.Email);
             }
-            novoUsuario = new Usuario(usuario.Nome, usuario.Email, gerarSenha());
+            novoUsuario = new Usuario(usuario.Nome, usuario.Email, usuario.Senha);
             _context.Usuarios.Add(novoUsuario);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetUsuario", new { id = novoUsuario.Id }, novoUsuario);
+
+            return new UsuarioRespostaDTO(novoUsuario.Id, novoUsuario.Nome, novoUsuario.Email);
 
 
         }
@@ -98,34 +99,6 @@ namespace api_contratos_servicos.Controllers
                 _senha = "error";
             }
             return _senha;
-        }
-
-        // GET: api/Usuarios
-        [HttpGet]
-        public async Task<ActionResult<IEnumerable<Usuario>>> GetUsuarios()
-        {
-            if (_context.Usuarios == null)
-            {
-                return NotFound();
-            }
-            return await _context.Usuarios.ToListAsync();
-        }
-
-        [HttpGet("{id}")]
-        public async Task<ActionResult<Usuario>> GetUsuario(int id)
-        {
-            if (_context.Usuarios == null)
-            {
-                return NotFound();
-            }
-            var usuario = await _context.Usuarios.FindAsync(id);
-
-            if (usuario == null)
-            {
-                return NotFound();
-            }
-
-            return usuario;
         }
 
         /*
