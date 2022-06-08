@@ -1,0 +1,21 @@
+<form class="auth-form-login">
+  <input
+    id="email"
+    class="login-form_input"
+    [ngClass]="{
+      'login-form_input--invalid': !emailValid
+    }"
+    type="email"
+    placeholder="Email" />
+  <input
+    id="password"
+    class="login-form_input"
+    [ngClass]="{
+      'login-form_input--invalid': !passwordValid
+    }"
+    type="password"
+    placeholder="Senha" />
+  <button class="button_primary">Logar</button>
+  <button class="button_secondary">Registrar-se</button>
+  <button class="button_secondary">Esqueceu sua senha?</button>
+</form>

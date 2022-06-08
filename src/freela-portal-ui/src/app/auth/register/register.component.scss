@@ -1,0 +1,22 @@
+.auth-form-register {
+  display: flex;
+  flex-direction: column;
+
+  margin: auto;
+  width: 400px;
+
+  .auth-form-register_type {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+
+    div {
+      display: flex;
+      align-items: baseline;
+    }
+
+    input[type=radio] {
+      margin-right: 10px;
+    }
+  }
+}

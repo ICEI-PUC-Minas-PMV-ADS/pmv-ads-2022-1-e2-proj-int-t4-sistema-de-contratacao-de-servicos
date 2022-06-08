@@ -1,0 +1,11 @@
+.auth-form-login {
+  display: flex;
+  flex-direction: column;
+
+  margin: auto;
+  width: 400px;
+
+  .login-form_input--invalid {
+    border-color: #FF0000;
+  }
+}

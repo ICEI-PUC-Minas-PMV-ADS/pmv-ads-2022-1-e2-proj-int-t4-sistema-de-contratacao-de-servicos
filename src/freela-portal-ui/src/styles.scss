@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+*  {
+  margin: 0;
+  font-size: 20px;
+}
+
+button, input {
+  border-color: #6B6B6B;
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 25px;
+}
+
+.button_primary {
+  background-color: #1F014C;
+  border-color: #6B6B6B;
+  border-radius: 10px;
+  color: #FFF;
+  padding: 15px;
+}
+
+.button_secondary {
+  background-color: transparent;
+  border: none;
+  color: #B4A0A8;
+  margin: 15px 0 0 0;
+}

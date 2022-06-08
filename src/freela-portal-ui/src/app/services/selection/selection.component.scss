@@ -1,0 +1,36 @@
+.services-selection {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  .services-selection-box {
+    border: 1px solid #6B6B6B;
+    padding: 25px;
+    margin: 0 15px 15px;
+
+    display: grid;
+    grid: 'image title      ' 1fr
+          'image description' 1fr /
+          200px 1fr;
+    grid-gap: 10px 10px;
+
+    img {
+      grid-area: image;
+    }
+
+    h2 {
+      grid-area: title;
+      font-size: 35px;
+    }
+
+    p {
+      grid-area: description;
+    }
+
+    &:hover {
+      background-color: #ABABAB;
+      cursor: pointer;
+    }
+  }
+}
+
