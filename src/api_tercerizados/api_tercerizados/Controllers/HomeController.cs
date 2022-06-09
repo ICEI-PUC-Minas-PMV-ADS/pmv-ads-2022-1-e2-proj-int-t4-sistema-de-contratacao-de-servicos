@@ -1,8 +1,8 @@
-﻿using api_tercerizados.Models;
+﻿using api_terceirizados.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace api_tercerizados.Controllers
+namespace api_terceirizados.Controllers
 {
     public class HomeController : Controller
     {

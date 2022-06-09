@@ -1,4 +1,4 @@
-﻿namespace api_contratos_servicos.Models.Dto
+﻿namespace api_terceirizados.Models.Dto
 {
     public class UsuarioRespostaDTO
     {

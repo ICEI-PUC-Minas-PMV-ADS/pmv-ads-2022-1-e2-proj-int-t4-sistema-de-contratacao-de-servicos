@@ -1,9 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace api_terceirizados.Models
+namespace api_tercerizados.Models
 {
-    [Table("usuarios")]
+    [Table("Usuarios")]
     public class Usuario
     {
         [Key]
@@ -19,7 +19,7 @@ namespace api_terceirizados.Models
         [Required(ErrorMessage = "Obrigatório Informar a senha!")]
         public string Senha { get; set; }
 
-        public Usuario(string Nome, string Email,String Senha)
+        public Usuario(string Nome, string Email, String Senha)
         {
             this.Senha = Senha;
             this.Nome = Nome;
@@ -29,9 +29,5 @@ namespace api_terceirizados.Models
         public Usuario()
         {
         }
-
-
-
     }
-
 }

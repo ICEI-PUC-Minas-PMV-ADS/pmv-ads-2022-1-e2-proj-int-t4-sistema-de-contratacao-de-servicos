@@ -1,6 +1,7 @@
 ﻿using api_terceirizados.Models;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace api_terceirizados.Context
 {
     public class ApplicationDbContext:  DbContext

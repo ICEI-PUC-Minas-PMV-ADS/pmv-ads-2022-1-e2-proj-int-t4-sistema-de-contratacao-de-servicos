@@ -1,4 +1,4 @@
-namespace api_tercerizados.Models
+namespace api_terceirizados.Models
 {
     public class ErrorViewModel
     {

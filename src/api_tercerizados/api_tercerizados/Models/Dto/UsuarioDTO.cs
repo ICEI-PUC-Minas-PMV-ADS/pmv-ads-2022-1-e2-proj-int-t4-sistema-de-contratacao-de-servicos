@@ -1,36 +1,37 @@
-﻿namespace api_contratos_servicos.Models.Dto
-{
-    
-    public class UsuarioDTO
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace api_terceirizados.Models
+
+{   [Table("usuarios")]
+    public class Usuario
     {
+        [Key]
+        public int Id { get; set; }
+
+        [Required(ErrorMessage = "Obrigatório Informar o nome!")]
         public string Nome { get; set; }
 
+        [Display(Name = "E-mail")]
+        [Required(ErrorMessage = "Obrigatório Informar o e-mail!")]
         public string Email { get; set; }
 
+        [Required(ErrorMessage = "Obrigatório Informar a senha!")]
         public string Senha { get; set; }
 
-
-
-        public UsuarioDTO(string Nome, string Email, string Senha)
+        public Usuario(string Nome, string Email, String Senha)
         {
+            this.Senha = Senha;
             this.Nome = Nome;
             this.Email = Email;
-            this.Senha = Senha;
         }
 
-        public UsuarioDTO()
+        public Usuario()
         {
         }
 
-        public Usuario usuarioDtoToUsuario()
-        {
-            var usuario = new Usuario();
-            usuario.Email = Email;
-            usuario.Nome = Nome;
 
-            return usuario;
-        }
+
     }
-
 
 }

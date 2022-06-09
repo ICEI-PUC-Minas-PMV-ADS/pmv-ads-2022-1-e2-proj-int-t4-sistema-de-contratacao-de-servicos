@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace api_tercerizados.Models
+namespace api_terceirizados.Models
 {
     [Table("Orçamento")]
     public class Orcamento
