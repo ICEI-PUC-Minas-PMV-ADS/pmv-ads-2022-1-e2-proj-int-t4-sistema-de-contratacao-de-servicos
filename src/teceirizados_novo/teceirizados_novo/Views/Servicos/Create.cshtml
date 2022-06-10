@@ -1,0 +1,58 @@
+﻿@model terceirizados_novo.Models.Servico
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Servico</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NomeServico" class="control-label"></label>
+                <input asp-for="NomeServico" class="form-control" />
+                <span asp-validation-for="NomeServico" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DescricaoServico" class="control-label"></label>
+                <input asp-for="DescricaoServico" class="form-control" />
+                <span asp-validation-for="DescricaoServico" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Orcamento" class="control-label"></label>
+                <input asp-for="Orcamento" class="form-control" />
+                <span asp-validation-for="Orcamento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ValorEstimadoServico" class="control-label"></label>
+                <input asp-for="ValorEstimadoServico" class="form-control" />
+                <span asp-validation-for="ValorEstimadoServico" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataAprovacaoOrcamento" class="control-label"></label>
+                <input asp-for="DataAprovacaoOrcamento" class="form-control" />
+                <span asp-validation-for="DataAprovacaoOrcamento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataConclusaoDoServico" class="control-label"></label>
+                <input asp-for="DataConclusaoDoServico" class="form-control" />
+                <span asp-validation-for="DataConclusaoDoServico" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
