@@ -6,48 +6,48 @@ grandes blocos:
 site como logo, login, cadastrar;
 2. Conteúdo - apresenta o menu e o resultado da busca realizada.
 
-![Layout](https://user-images.githubusercontent.com/101760616/173247609-9a078146-1acf-4bae-81e5-ef8b546b0bb3.jpg)
-
 # Tela de Login
 
 Esta tela mostra um login padrão para que o usuário possa efetuar o acesso ao site e utilizar o 
 sistema. A tela mostra campos de e-mail e senha. Há também um link “Registrar-se” que redireciona os 
 usuários a outra página para que possam se cadastrar no site.
 
-![Tela Login](https://user-images.githubusercontent.com/101760616/173246740-ac66e141-74db-4426-b307-f74792d37231.jpg)
-
+![TelaLogin-Esqueceu_senha](https://user-images.githubusercontent.com/93413365/173247198-893da602-dd3c-48a6-a412-6f4b7caac668.png)
 
 
 # Tela recuperação de senha
 
+![TelaLogin-Esqueceu_senha](https://user-images.githubusercontent.com/93413365/173247198-893da602-dd3c-48a6-a412-6f4b7caac668.png)
+
 A tela mostra campos de e-mail, senha, um botão entrar e um link “esqueci a senha” 
 para caso o usuário precise
+
+
 
 
 # Tela Registro
 
 Detém todos os dados informados pelo usuário para cadastro e futuras alterações.
 
-![Tela Registrar](https://user-images.githubusercontent.com/101760616/173246736-76e9f7e2-8c59-4dc6-bc1f-b8a1508afdd7.jpg)
-
-
+![TelaLogin-Cadastro](https://user-images.githubusercontent.com/93413365/173247294-4866fc7d-e1c7-46f5-9b74-e07fee0df6a2.png)
 # Tela Home-page
 
 Esta tela mostra o menu, abrindo o menu a pagina retorna a lista dos serviços cadastrados. 
 
-![Tela Inicial](https://user-images.githubusercontent.com/101760616/173246738-cb95f239-a460-4ddc-8dee-ef8e54edd969.jpg)
+![homepage boa](https://user-images.githubusercontent.com/93413365/173246698-6ac9819a-03ec-499a-96b4-e6587ce9dfa3.jpeg)
+
 
 # Tela menu
 
-Esta tela mostra os serviços cadastrados.
+![image](https://user-images.githubusercontent.com/93413365/173246990-ba0e3cfc-4755-4756-8d98-507a0ba9bee6.png)
 
-![Tela Menu](https://user-images.githubusercontent.com/101760616/173246741-5bfdb8fc-a593-4843-b1b3-0c3d5e97938a.jpg)
+
+Esta tela mostra os serviços cadastrados.
 
 
 # Tela orçamento
 
+![menu boa](https://user-images.githubusercontent.com/93413365/173246801-bf62e9e6-500d-460f-82ac-b96532716077.jpeg)
+
 Esta tela mostra o tipo de profissional e a lista de serviços para solicitar orçamento.
-
-![Tela Orçamento](https://user-images.githubusercontent.com/101760616/173246743-677aebc5-1c6c-4d93-90aa-b265ca5ada94.jpg)
-
 
