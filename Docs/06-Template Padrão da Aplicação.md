@@ -8,6 +8,9 @@ site como logo, login, cadastrar;
 
 ![Layout](https://user-images.githubusercontent.com/101760616/173247979-734e7d2a-d8a8-4e67-bdd1-1c83d1618763.jpg)
 
+### Cores principais
+
+![cores principal](https://user-images.githubusercontent.com/93413365/173248258-b0fc5969-507b-49bb-ac7e-9c080b477ee7.jpeg)
 
 # Tela de Login
 
