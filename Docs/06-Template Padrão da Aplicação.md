@@ -6,6 +6,8 @@ grandes blocos:
 site como logo, login, cadastrar;
 2. Conteúdo - apresenta o menu e o resultado da busca realizada.
 
+
+
 # Tela de Login
 
 Esta tela mostra um login padrão para que o usuário possa efetuar o acesso ao site e utilizar o 
