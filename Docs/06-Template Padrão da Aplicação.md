@@ -6,7 +6,7 @@ grandes blocos:
 site como logo, login, cadastrar;
 2. Conteúdo - apresenta o menu e o resultado da busca realizada.
 
-
+![Layout](https://user-images.githubusercontent.com/101760616/173247609-9a078146-1acf-4bae-81e5-ef8b546b0bb3.jpg)
 
 # Tela de Login
 
