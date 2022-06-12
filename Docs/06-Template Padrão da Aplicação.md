@@ -12,6 +12,9 @@ Esta tela mostra um login padrão para que o usuário possa efetuar o acesso ao 
 sistema. A tela mostra campos de e-mail e senha. Há também um link “Registrar-se” que redireciona os 
 usuários a outra página para que possam se cadastrar no site.
 
+![Exemplo de Diagrama de Fluxo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/Diagrama%20de%20Fluxo%20de%20Usu%C3%A1rio.jpeg)
+<p align="center">Figura 4  - Diagrama de Fluxo</p>
+
 
 
 # Tela recuperação de senha
