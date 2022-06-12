@@ -6,7 +6,7 @@ grandes blocos:
 site como logo, login, cadastrar;
 2. Conteúdo - apresenta o menu e o resultado da busca realizada.
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/issues/13#issue-1268662633
+![Layout](https://user-images.githubusercontent.com/101760616/173247979-734e7d2a-d8a8-4e67-bdd1-1c83d1618763.jpg)
 
 
 # Tela de Login
