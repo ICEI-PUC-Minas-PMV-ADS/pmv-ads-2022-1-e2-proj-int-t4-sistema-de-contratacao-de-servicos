@@ -20,12 +20,10 @@ usuários a outra página para que possam se cadastrar no site.
 
 # Tela recuperação de senha
 
-![TelaLogin-Esqueceu_senha](https://user-images.githubusercontent.com/93413365/173247198-893da602-dd3c-48a6-a412-6f4b7caac668.png)
-
 A tela mostra campos de e-mail, senha, um botão entrar e um link “esqueci a senha” 
 para caso o usuário precise
 
-
+![TelaLogin-Esqueceu_senha](https://user-images.githubusercontent.com/93413365/173247198-893da602-dd3c-48a6-a412-6f4b7caac668.png)
 
 
 # Tela Registro
@@ -44,15 +42,17 @@ Esta tela mostra o menu, abrindo o menu a pagina retorna a lista dos serviços c
 
 # Tela menu
 
+Esta tela mostra os serviços cadastrados.
+
 ![image](https://user-images.githubusercontent.com/93413365/173246990-ba0e3cfc-4755-4756-8d98-507a0ba9bee6.png)
 
-
-Esta tela mostra os serviços cadastrados.
 
 
 # Tela orçamento
 
+Esta tela mostra o tipo de profissional e a lista de serviços para solicitar orçamento.
+
 ![menu boa](https://user-images.githubusercontent.com/93413365/173246801-bf62e9e6-500d-460f-82ac-b96532716077.jpeg)
 
-Esta tela mostra o tipo de profissional e a lista de serviços para solicitar orçamento.
+
 
