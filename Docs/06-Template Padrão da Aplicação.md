@@ -6,6 +6,12 @@ grandes blocos:
 site como logo, login, cadastrar;
 2. Conteúdo - apresenta o menu e o resultado da busca realizada.
 
+![Tela Registrar](https://user-images.githubusercontent.com/101760616/173246736-76e9f7e2-8c59-4dc6-bc1f-b8a1508afdd7.jpg)
+![Tela Inicial](https://user-images.githubusercontent.com/101760616/173246738-cb95f239-a460-4ddc-8dee-ef8e54edd969.jpg)
+![Tela Login](https://user-images.githubusercontent.com/101760616/173246740-ac66e141-74db-4426-b307-f74792d37231.jpg)
+![Tela Menu](https://user-images.githubusercontent.com/101760616/173246741-5bfdb8fc-a593-4843-b1b3-0c3d5e97938a.jpg)
+![Tela Orçamento](https://user-images.githubusercontent.com/101760616/173246743-677aebc5-1c6c-4d93-90aa-b265ca5ada94.jpg)
+
 # Tela de Login
 
 Esta tela mostra um login padrão para que o usuário possa efetuar o acesso ao site e utilizar o 
@@ -13,7 +19,7 @@ sistema. A tela mostra campos de e-mail e senha. Há também um link “Registra
 usuários a outra página para que possam se cadastrar no site.
 
 <p align="center">
-  <img src="docs/img/TelaLogin-Esqueceu_senha.png">
+  <img src="(https://user-images.githubusercontent.com/101760616/173246740-ac66e141-74db-4426-b307-f74792d37231.jpg)">
 </p>
 <p align="center">Figura 2 - Tela de Login</p>
 
