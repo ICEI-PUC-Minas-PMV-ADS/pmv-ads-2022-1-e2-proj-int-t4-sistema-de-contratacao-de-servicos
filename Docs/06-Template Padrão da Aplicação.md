@@ -38,7 +38,7 @@ Detém todos os dados informados pelo usuário para cadastro e futuras alteraç�
 
 # Tela Home-page
 
-Esta tela mostra o menu, abrindo o menu a pagina retorna a lista dos serviços cadastrados. 
+Esta tela mostra o menu, abrindo o menu a pagina retorna a lista dos serviços cadastrados.
 
 ![homepage boa](https://user-images.githubusercontent.com/93413365/173246698-6ac9819a-03ec-499a-96b4-e6587ce9dfa3.jpeg)
 
