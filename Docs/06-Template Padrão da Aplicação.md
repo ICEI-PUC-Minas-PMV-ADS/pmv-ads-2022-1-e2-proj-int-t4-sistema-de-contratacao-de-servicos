@@ -21,7 +21,7 @@ Esta tela mostra um login padrão para que o usuário possa efetuar o acesso ao 
 ## Tela recuperação de senha
 
 A tela mostra campos de e-mail, senha, um botão entrar e um link “esqueci a senha” 
-para caso o usuário precise
+para caso o usuário precise.
 
 ![TelaLogin-Esqueceu_senha](https://user-images.githubusercontent.com/93413365/173247198-893da602-dd3c-48a6-a412-6f4b7caac668.png)
 
