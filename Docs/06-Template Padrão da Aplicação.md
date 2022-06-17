@@ -1,9 +1,5 @@
 # Template Padrão da Aplicação
 
-<<<<<<< HEAD
-=======
-# Template Padrão da Aplicação
-
 >>>>>>> e10d158330afa46e6fd52c846c8eedd7675e1b9c
 O projeto seguira o layot conforme imagem. Nesta estrutura, existem 2
 grandes blocos:
