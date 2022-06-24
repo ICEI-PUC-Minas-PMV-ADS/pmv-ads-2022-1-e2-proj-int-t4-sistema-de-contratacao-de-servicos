@@ -75,7 +75,10 @@ body {
   padding-left: 80px;
 }
 
+
 /* fecha menu */
+
+
 header{
   background-color: #191970;
   padding: 20px;
@@ -96,8 +99,9 @@ footer{
 }
 
 main{ 
-  padding: 3% 7% 0 7%;
+  padding: 2% 7% 0 7%;
 }
+
 
 
 .container {
@@ -127,6 +131,7 @@ main{
   background-color: #191970;
 
 }
+ 
 
 
 /* Import*/
