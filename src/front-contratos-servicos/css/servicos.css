@@ -99,14 +99,17 @@ footer{
 }
 
 main{ 
-  padding: 2% 7% 0 7%;
+  padding: 0 7% ;
 }
 
+h5 {
+  text-align: center;
+}
 
 
 .container {
   column-count: 3;
-  column-gap: 16%;
+  column-gap: 5%;
 }
 
 
@@ -114,7 +117,7 @@ main{
   background-color: #6959CD; /* background */
   border: 40px solid #191970; /*  border */
   color: white; /* White text */
-  padding: 13px 35px 13px ; /* Some padding */
+  padding: 15px 20px 15px ; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
   width: 100%; /* Set a width if needed */
   display: block; /* Make the buttons appear below each other */
