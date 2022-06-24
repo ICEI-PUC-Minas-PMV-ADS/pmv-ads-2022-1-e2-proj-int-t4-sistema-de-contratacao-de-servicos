@@ -1,0 +1,148 @@
+
+* {
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+  margin: 0 auto;
+  padding: 0px;
+  color: black;
+}
+
+body {
+  display: box;
+}
+
+/*  menu */
+ 
+.side-bar{
+  background: rgba(255,255,255 , 0.1);
+  background-color: #191970;
+  width: 290px;
+  height: 100vh;
+  position: fixed;
+  top:0;
+  left: -100%;
+  overflow-y: auto;
+  transition: 0.6s ease;
+  transition-property: left;
+}
+
+.side-bar.active{
+  left: 0;
+}
+
+.side-bar .menu{
+  width: 100%;
+  margin-top: 80px;
+}
+
+.side-bar .menu .item{
+  position:relative;
+  cursor:pointer;
+}
+
+.side-bar .menu .item a{
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  display: block;
+  padding: 5px 30px;
+  line-height: 60px;
+}
+
+.side-bar .menu .item a:hover{
+  background: #6959CD;
+  transition: 0.3s ease;
+
+}
+
+.side-bar .menu .item i{
+  margin-right: 15px;
+}
+
+.side-bar .menu .item a .dropdown{
+  position: absolute;
+  right:0;
+  margin: 20px;
+  transition: 0.3s ease;
+}
+
+.side-bar .menu .item .sub-menu{
+  background: #191970;
+  display:none;
+}
+
+.side-bar .menu .item .sub-menu a{
+  padding-left: 80px;
+}
+
+/* fecha menu */
+header{
+  background-color: #191970;
+  padding: 20px;
+}
+
+
+
+footer{
+  background-color: #191970;
+  padding: 15px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: left;
+  font-size: 12px;
+}
+
+main{ 
+  padding: 3% 7% 0 7%;
+}
+
+
+.container {
+  column-count: 3;
+  column-gap: 16%;
+}
+
+
+.btn-group button {
+  background-color: #6959CD; /* background */
+  border: 40px solid #191970; /*  border */
+  color: white; /* White text */
+  padding: 13px 35px 13px ; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 100%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+  font-weight: bold; 
+}
+
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #191970;
+
+}
+
+
+/* Import*/
+
+/*@media only screen and (max-width: 696px) {
+  .container {
+     width: 90%;
+    }
+  }*/
+
+  @media only screen and (max-width: 480px)
+
+{
+  .container {
+    width: 90%;
+   }
+  header { height: 70px; }
+
+}
