@@ -14,59 +14,109 @@
 
 ![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/TelaLogin.png)
 
-**Critério de êxito:** êxito na recuperação de senha
+<p align="justify">
+<b>Critério de êxito:</b> êxito na recuperação de senha
+</p>
 ![Esqueceu da Senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/TelaLogin-Esqueceu_senha.png)
 
-**Critério de êxito:** Validação dos campos do formulário de cadastro
+<p align="justify">
+<b>Critério de êxito:</b> Validação dos campos do formulário de cadastro
+</p>
+ 
 ![Cadastre-se](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/TelaLogin-Cadastro.png)
 
-**Critério de êxito:** Comunicação correta com o banco de dados
+<p align="justify">
+<b>Critério de êxito:</b>  Comunicação correta com o banco de dados
+</p>
+
 ![Valida dados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/TelaLogin-Valida.png)
 
 ## 9.2 CT-02 - Lista pré-estabelecida de serviços, solicitação de serviços e orçamento
 
-**Critério de êxito:** Funcionamento correto da lista pré-estabelecida
+<p align="justify">
+<b>Critério de êxito:</b> Funcionamento correto da lista pré-estabelecida
+</p>
+
 ![ ]( )
 
-**Critério de êxito:**  Funcionamento correto das funcionalidades que permitem a interação entre cliente e prestador de serviços
+<p align="justify">
+<b>Critério de êxito:</b> Funcionamento correto das funcionalidades que permitem a interação entre cliente e prestador de serviços
+</p> 
+
 ![]( )
 
 ## 9.3 CT-03 - Agendamento do serviço escolhido pelo cliente
 
-**Critério de êxito:** Êxito do cliente e do prestador de serviços no agendamento do serviço
+<p align="justify">
+<b>Critério de êxito:</b> FÊxito do cliente e do prestador de serviços no agendamento do serviço
+</p>
+
 ![]()
 
-**Critério de êxito:** Funcionamento correto das funcionalidades que permitem a interação e o contato entre cliente e prestador de serviços
+<p align="justify">
+<b>Critério de êxito:</b> Funcionamento correto das funcionalidades que permitem a interação e o contato entre cliente e prestador de serviços
+</p>
+
 ![]()
 
 ## 9.4 CT-04 - Avaliação do serviço prestado, visualização do conatato e do histórico de avaliações anteriores do prestador de serviços
 
-**Critério de êxito:** Êxito do cliente ao avaliar um prestador de serviço específico
+<p align="justify">
+<b>Critério de êxito:</b> Êxito do cliente ao avaliar um prestador de serviço específico
+</p> 
+
 ![]()
 
-**Critério de êxito:** Êxito do cliente ao procurar as informações de contato do prestador de serviços desejado
+<p align="justify">
+<b>Critério de êxito:</b> Êxito do cliente ao procurar as informações de contato do prestador de serviços desejado
+</p> 
+
 ![]()
 
-**Critério de êxito:** Êxito do cliente ao conseguir visualizar avaliações anteriores do prestador de serviçods específico
+<p align="justify">
+<b>Critério de êxito:</b> Êxito do cliente ao conseguir visualizar avaliações anteriores do prestador de serviçods específico
+</p> 
+
 ![]()
 
 ## 9.5 CCT-05 - Envio do orçamento
 
-**Critério de êxito:** Êxito do fornecedor ao visualizar os pedidos pendentes de orçamentos
+  <p align="justify">
+<b>Critério de êxito:</b> Êxito do fornecedor ao visualizar os pedidos pendentes de orçamentos
+</p> 
+
 ![]()
 
-**Critério de êxito:** Êxito do fornecedor ao enviar o orçamento
+<p align="justify">
+<b>Critério de êxito:</b> Êxito do fornecedor ao enviar o orçamento
+</p>
+
 ![]()
 
 ## 9.6 CT-06 - Realização do pagamento do cliente pelo serviço agendado
 
-**Critério de êxito:** Êxito do cliente ao acessar a lista de serviços agendados
+<p align="justify">
+<b>Critério de êxito:</b> Êxito do cliente ao acessar a lista de serviços agendados
+</p> 
+
 ![]()
 
-**Critério de êxito:** Êxito do cliente efetuar o pagamento
+<p align="justify">
+<b>Critério de êxito:</b> Êxito do cliente efetuar o pagamento
+</p>
+
+![]()
 
 ## 9.7 CT-07 - Realização do pagamento do cliente pelo serviço agendado
 
-**Critério de êxito:** Êxito do fornecedor ao acessar a lista de serviços realizados
+<p align="justify">
+<b>Critério de êxito:</b> Êxito do fornecedor ao acessar a lista de serviços realizados
+</p> 
 
-**Critério de êxito:** Êxito do fornecedor receber o pagamento
+![]()
+
+<p align="justify">
+<b>Critério de êxito:</b> Êxito do fornecedor receber o pagamento
+</p>
+
+![]()

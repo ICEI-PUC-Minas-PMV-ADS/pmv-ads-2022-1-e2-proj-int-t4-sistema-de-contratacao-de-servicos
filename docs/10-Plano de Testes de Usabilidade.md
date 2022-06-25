@@ -15,7 +15,7 @@
 
 | **Tarefa 1** | **Critério de Êxito** | **O que será avaliado** |
 |--------------|--------------------|-------------------------|
-|Cadastro de novo usuário. | Concluir o cadastro, considerando a mensagem "Cadastro realizado com sucesso". | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para se concluir. |
+|Cadastrar novo usuário. | Concluir o cadastro, considerando a mensagem "Cadastro realizado com sucesso". | Concretização da tarefa. Quantidade e tipo de erros cometidos. Tempo necessário para se concluir. |
 
 
 | **Tarefa 2** | **Critério de Êxito** | **O que será avaliado** |
