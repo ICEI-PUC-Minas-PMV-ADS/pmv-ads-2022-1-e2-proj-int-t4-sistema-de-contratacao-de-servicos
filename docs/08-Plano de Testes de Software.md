@@ -52,5 +52,5 @@ Os testes funcionais a serem realizados no site são descritos a seguir:
 |---------------------|----------------------------------------------------------------|
 |**Requisitos atendidos**|RF - 009: O site deve permitir ao fornecedor o recebimento online pelo serviços prestados.		                                               	 |
 |**Passos**|1: Acessar a aplicação;<br>2: Realizar o login como fornecedor;<br>3: Acessar a lista de serviços realizados;<br>4: Realizar o recebimento do pagamento.|
-|Critérios de êxito   |1: Êxito do fornecedor ao acessar a lista de serviços realizados.<br>2:  Êxito do fornecedor receber o pagamento.
+|**Critérios de êxito**|1: Êxito do fornecedor ao acessar a lista de serviços realizados.<br>2:  Êxito do fornecedor receber o pagamento.
 
