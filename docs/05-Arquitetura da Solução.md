@@ -37,7 +37,7 @@ Segue abaixo o esquema relacional deste projeto:</p>
 
 ## Tecnologias Utilizadas
 
-<p align="justify">Para a para solução do problema serão utilizados o Angular, HTML, CSS e JavaScript  no front-end.
+<p align="justify">Para a para solução do problema serão utilizados o HTML, CSS e JavaScript  no front-end.
 Para o back-end, a linguagem de programação utilizada será a C# (C Sharp), e como framework utilizaremos a API Web do ASP.NET Core.
 Utilizaremos o Visual Studio como IDE de desenvolvimento, e como Sistema Gerenciador de Banco de Dados (SGBD) utilizaremos o  SQL Server.
 Durante o desenvolvimento serão priorizadas o uso de ferramentas alternativas gratuitas de tecnologia, dentre elas: Trello, Miro, LucidChart e Figma, como especificando anteriormente na metodologia.
@@ -50,7 +50,7 @@ A imagem abaixo demonstra a interação do usuário com o sistema, por onde ela 
 ## Hospedagem
 
 <p align="justify">
-O site será hospedado na plataforma Firebase (front-end) e utilizará o AZURE para a hospedagem da API do projeto (back-end).
+O site será hospedado na plataforma Github Pages (front-end) e utilizará o AZURE para a hospedagem da API do projeto (back-end).
 
 
 </p>
