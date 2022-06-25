@@ -9,11 +9,12 @@
 
 ## 9.1 CT-01 - Cadastro de usuários na aplicação, login e recuperação de senha
 
+<p align="justify">
 **Critério de êxito:** Acesso na aplicação via login
-
-<p align="center">
-![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/TelaLogin.png)
 </p>
+
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/TelaLogin.png)
+</>
 
 **Critério de êxito:** êxito na recuperação de senha
 ![Esqueceu da Senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/TelaLogin-Esqueceu_senha.png)
