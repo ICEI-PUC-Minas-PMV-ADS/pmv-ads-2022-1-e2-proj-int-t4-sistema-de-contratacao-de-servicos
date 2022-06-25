@@ -17,6 +17,7 @@
 <p align="justify">
 <b>Critério de êxito:</b> êxito na recuperação de senha
 </p>
+
 ![Esqueceu da Senha](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-servicos/blob/main/docs/img/TelaLogin-Esqueceu_senha.png)
 
 <p align="justify">
@@ -37,7 +38,7 @@
 <b>Critério de êxito:</b> Funcionamento correto da lista pré-estabelecida
 </p>
 
-![ ]( )
+![]( )
 
 <p align="justify">
 <b>Critério de êxito:</b> Funcionamento correto das funcionalidades que permitem a interação entre cliente e prestador de serviços
