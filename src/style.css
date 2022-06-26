@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Oswald:wght@400;700&family=Poppins:ital,wght@0,700;1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+    background-color: #191970;
+}
+
+.contratacao, .texto2 {
+     font-size: 20px;
+     font-family:  'Oswald', sans-serif;
+     color: white;
+     float: left;
+     padding-left: 20px;
+     text-align: left;
+     padding-left: 0;
+     
+}
+
+.contratacao{
+    background-color: #6959CD;
+}
+
+.texto2 {
+    color: #6959CD;
+}
+
+
+
+.cabecalho-menu {
+    display: flex;
+    gap: 32px;  
+}
+
+.cabecalho-menu-item {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+
+.conteudo {
+    border-top: 4px solid #6959CD;
+}
+
+.conteudo-principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.conteudo-principal-escrito {
+    display:flex;
+    flex-direction: column;
+    gap:32px;
+    margin-top: auto;
+}
+
+.conteudo-principal-escrito-titulo {
+    font-family:  'Oswald', sans-serif;
+    font-weight: 700px;
+    font-size: 50px;
+    color:#191970;
+}
+
+.conteudo-principal-escrito-subtitulo {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color:#6959CD;
+}
+
+.conteudo-principal-escrito-botao {
+    background-color: #191970;
+    width:180px;
+    height:60px;
+    font-family:  'Oswald', sans-serif;
+    border-radius: 20px;
+    border-color: #6959CD;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.conteudo-principal-escrito-botao:hover {
+    background-color: #6959CD;
+}
+
+
+.conteudo-principal-imagem {
+    height: 430px;
+    margin-top: 60px;
+    
+}
