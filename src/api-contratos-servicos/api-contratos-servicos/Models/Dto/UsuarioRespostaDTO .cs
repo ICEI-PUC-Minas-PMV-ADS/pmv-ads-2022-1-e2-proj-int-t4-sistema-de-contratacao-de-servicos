@@ -9,11 +9,17 @@
 
         public string Email { get; set; }
 
-        public UsuarioRespostaDTO(int Id, string Nome, string Email)
+        public string Token { get; set; }
+
+        public string Tipo { get; set; }
+
+        public UsuarioRespostaDTO(int id, string nome, string email, string token, string tipo)
         {
-            this.Id = Id;
-            this.Nome = Nome;
-            this.Email = Email;
+            this.Id = id;
+            this.Nome = nome;
+            this.Email = email;
+            this.Token = token;
+            this.Tipo = tipo;
         }
 
         public UsuarioRespostaDTO()

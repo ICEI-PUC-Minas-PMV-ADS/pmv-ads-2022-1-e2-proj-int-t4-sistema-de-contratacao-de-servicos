@@ -23,5 +23,6 @@ namespace api_contratos_servicos.Context
         public DbSet<TipoServico>? TipoServicos { get; set; }
 
         public DbSet<Servico>? Servicos { get; set; }
+
     }
 }

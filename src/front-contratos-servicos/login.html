@@ -1,45 +1,61 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-    <link rel="stylesheet" href="style.css">
-   
-
-</head>
-<body>
-
-<div class="container" >
-    <a class="links" id="paracadastro"></a>
-    <a class="links" id="paralogin"></a>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Login - SERVIÇOS</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&amp;display=swap">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/css/Banner-Heading-Image.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" charset="UTF-8" ></script>
     
-    <div class="content">      
-      <!--FORMULÁRIO DE LOGIN-->
-      <div id="login">
-        <form method="post" action=""> 
-          <h1>Login</h1> 
-          <p> 
-              <input id="email_login" name="email_login" required="required" type="text" placeholder="Email"/>
-          </p>
-          
-          <p> 
-            <input id="senha_login" name="senha_login" required="required" type="password" placeholder="Senha" /> 
-          </p>
-          
-                   
-          <p> 
-            <input type="submit" value="Logar" /> 
-          </p>
-          
-          <p class="link">
-            <a href="cadastro.html">Cadastre-se</a> <a href="recsenha.html">Recuperar senha</a>
-          </p>
-        </form>
-      </div>
-    </div>
-  </div>
-    </body>
-    </html>
+    <script type="module" src="assets/js/usuario.js"></script>
+</head>
+
+<body class="bg-primary">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-9 col-lg-12 col-xl-10">
+                <div class="card shadow-lg o-hidden border-0 my-5">
+                    <div class="card-body p-0">
+                        <div class="row">
+                            <div class="col-lg-6 d-none d-lg-flex">
+                                <div class="flex-grow-1 bg-login-image" style="background-image: url(&quot;assets/img/manutencao.jpg&quot;); background-size: contain;"></div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="p-5">
+                                    <div class="text-center">
+                                        <h4 class="text-dark mb-4">Bem Vindo!</h4>
+                                    </div>
+                                    <form id="formLogin" class="user" method="post">
+                                        <div class="mb-3"><input class="form-control form-control-user" type="email" id="email" aria-describedby="emailHelp" placeholder="Email...."></div>
+                                        <div class="mb-3"><input class="form-control form-control-user" type="password" id="password" placeholder="Senha"></div>
+                                        <div class="mb-3">
+                                            <div class="custom-control custom-checkbox small">
+                                                <div class="form-check"><input class="form-check-input custom-control-input" type="checkbox" id="formCheck-1"><label class="form-check-label custom-control-label" for="formCheck-1">Remember Me</label></div>
+                                            </div>
+                                        </div>
+                                        <button class="btn btn-primary d-block btn-user w-100" type="button" id="submit">Login</button>
+                                        <br>
+                                        <div class="alert alert-danger form-control-user" id="erroMsg" style = "display:none" role="alert">
+                                            Usuário e/ou senha incorreto(s).
+                                        </div>
+                                    </form>
+                                    <div class="text-center"><a class="small" href="forgot-password.html">Esqueceu a Senha?</a></div>
+                                    <div class="text-center"><a class="small" href="register.html">Cadastra-se</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>   
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/theme.js"></script>
+    
+</body>
+
+</html>

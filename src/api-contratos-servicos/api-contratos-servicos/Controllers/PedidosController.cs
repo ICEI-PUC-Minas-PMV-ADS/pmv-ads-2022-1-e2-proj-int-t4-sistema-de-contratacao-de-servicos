@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using api_contratos_servicos.Context;
 using api_contratos_servicos.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace api_contratos_servicos.Controllers
 {
@@ -48,6 +49,19 @@ namespace api_contratos_servicos.Controllers
             }
 
             return pedido;
+        }
+
+        // GET: api/Pedidos/5
+        [HttpGet("usuario/{id}")]
+        public async Task<ActionResult<IEnumerable<Pedido>>> GetPedidoUsuario(int id)
+        {
+            if (_context.Pedidos == null)
+            {
+                return NotFound();
+            }
+            
+
+            return await _context.Pedidos.Where(x => x.UsuarioId == id).ToListAsync();
         }
 
         // PUT: api/Pedidos/5

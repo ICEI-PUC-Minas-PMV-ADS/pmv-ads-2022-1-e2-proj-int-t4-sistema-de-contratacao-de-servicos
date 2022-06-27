@@ -13,13 +13,13 @@ namespace api_contratos_servicos.Models
         public string Cliente { get; set; }
 
         [Required(ErrorMessage = "Obrigatório Informar o Tipo De Serviço!")]
-        public string TipoServiço { get; set; }
+        public string TipoServico { get; set; }
 
         [Required(ErrorMessage = "Obrigatório Informar a Data!")]
         LocalDataStoreSlot  Data { get; set; }
 
         [Required(ErrorMessage = "Obrigatório Informar a Descrição!")]
-        public string Descrição { get; set; }
+        public string Descricao { get; set; }
 
       
         public int UsuarioId { get; set; }

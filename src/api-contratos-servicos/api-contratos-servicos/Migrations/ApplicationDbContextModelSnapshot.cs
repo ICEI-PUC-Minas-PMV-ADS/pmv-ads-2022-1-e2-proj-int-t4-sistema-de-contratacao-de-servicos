@@ -162,11 +162,11 @@ namespace api_contratos_servicos.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Descrição")
+                    b.Property<string>("Descricao")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("TipoServiço")
+                    b.Property<string>("TipoServico")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -245,6 +245,10 @@ namespace api_contratos_servicos.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Role")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

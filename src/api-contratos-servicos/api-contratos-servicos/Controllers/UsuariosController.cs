@@ -1,18 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using api_contratos_servicos.Context;
+﻿using api_contratos_servicos.Context;
 using api_contratos_servicos.Models;
 using api_contratos_servicos.Models.Dto;
+using api_contratos_servicos.Services;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Text;
 
 namespace api_contratos_servicos.Controllers
 {
     [Route("api/[controller]")]
+    [AllowAnonymous]
     [ApiController]
     public class UsuariosController : ControllerBase
     {
@@ -44,16 +42,19 @@ namespace api_contratos_servicos.Controllers
                 return NotFound();
             }
 
-            return new UsuarioRespostaDTO(usuarioLogado.Id, usuarioLogado.Nome, usuarioLogado.Email);
+            var token = TokenService.GenerateToken(usuarioLogado);
+
+            return new UsuarioRespostaDTO(usuarioLogado.Id, usuarioLogado.Nome, usuarioLogado.Email, token, usuarioLogado.Role);
 
         }
 
 
         [Route("cadastrar")]
         [HttpPost]
-        public async Task<ActionResult<UsuarioRespostaDTO>> Cadastrar([Bind("Nome,Email,Senha")] UsuarioDTO usuario)
+        public async Task<ActionResult<UsuarioRespostaDTO>> Cadastrar([Bind("Nome,Email,Senha,Tipo,Cpf,Cep,Telefone,Logradouro,Numero,Bairro,Cidade,UF")] UsuarioDTO usuarioDTO
+            )
         {
-            if (usuario == null)
+            if (usuarioDTO == null)
             {
                 return BadRequest();
             }
@@ -63,18 +64,32 @@ namespace api_contratos_servicos.Controllers
                 return Problem("Entity set 'ApplicationDbContext.Usuarios'  is null.");
             }
 
-            var novoUsuario = await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == usuario.Email);
+            //ValidaUsuario
+            var usuarioCadastro = await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == usuarioDTO.Email);
 
-            if (!(novoUsuario == null))
+            if (!(usuarioCadastro == null))
             {
-                return new UsuarioRespostaDTO(novoUsuario.Id, novoUsuario.Nome, novoUsuario.Email);
+                return new UsuarioRespostaDTO(usuarioCadastro.Id, usuarioCadastro.Nome, usuarioCadastro.Email,usuarioCadastro.Role, null);
             }
-            novoUsuario = new Usuario(usuario.Nome, usuario.Email, usuario.Senha);
-            _context.Usuarios.Add(novoUsuario);
+            usuarioCadastro = new Usuario(usuarioDTO.Nome, usuarioDTO.Email, usuarioDTO.Senha, usuarioDTO.Tipo);
+            _context.Usuarios.Add(usuarioCadastro);
             await _context.SaveChangesAsync();
 
+            //salvar cliente ou Fornecedor
+            if (usuarioDTO.Tipo == "cliente") {
+                var cliente = usuarioDTO.usuarioCliente();
+                cliente.UsuarioId = usuarioCadastro.Id;
+                _context.Clientes.Add(cliente);
+                await _context.SaveChangesAsync();
+            } else if(usuarioDTO.Tipo == "fornecedor") {
+                var fornecedor = usuarioDTO.usuarioFornecedor();
+                fornecedor.UsuarioId = usuarioCadastro.Id;
+                _context.Fornecedores.Add(fornecedor);
+                await _context.SaveChangesAsync();
+            }
 
-            return new UsuarioRespostaDTO(novoUsuario.Id, novoUsuario.Nome, novoUsuario.Email);
+
+            return new UsuarioRespostaDTO(usuarioCadastro.Id, usuarioCadastro.Nome, usuarioCadastro.Email, usuarioCadastro.Role, null);
 
 
         }

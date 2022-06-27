@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Register - SERVIÇOS</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&amp;display=swap">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/css/Banner-Heading-Image.css">
+    <script type="module" src="assets/js/usuario.js"></script>
+</head>
+
+<body class="bg-primary">
+    <div class="container">
+        <div class="card shadow-lg o-hidden border-0 my-5">
+            <div class="card-body p-0">
+                <div class="row">
+                    <div class="col-lg-5 d-none d-lg-flex">
+                        <div class="flex-grow-1 bg-register-image" style="background-image: url(&quot;assets/img/manutencao.jpg&quot;); background-size: contain;"></div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="p-5">
+                            <div class="text-center">
+                                <h4 class="text-dark mb-4">Cadastra-se</h4>
+                            </div>
+                            <form class="user" method="post">
+                                <div class="col-sm-12 col-sm-12 ">
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="cliente">
+                                        <label class="form-check-label" for="inlineRadio1">Cliente</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="fornecedor">
+                                        <label class="form-check-label" for="inlineRadio2">Prestador de Serviço</label>
+                                    </div>
+                                </div>
+                                <br>
+                                <div class="mb-3"><input class="form-control form-control-user" type="text" id="nome" placeholder="Nome"></div>
+                                <div class="mb-3"><input class="form-control form-control-user" type="email" id="email" aria-describedby="emailHelp" placeholder="Email"></div>
+                                <div class="row mb-3">
+                                    <div class="col-sm-6"><input class="form-control form-control-user" type="text" id="cpf" placeholder="CPF/CNPJ"></div>
+                                    <div class="col-sm-6"><input class="form-control form-control-user" type="text" id="telefone" placeholder="Telefone"></div>
+                                </div>
+                                <div class="row mb-3">
+                                    <div class="col-sm-4"><input class="form-control form-control-user" type="text" id="cep" placeholder="CEP"></div>
+                                    <div class="col-sm-8"><input class="form-control form-control-user" type="text" id="logradouro" placeholder="Logradouro"></div>
+                                </div>
+                                <div class="row mb-3">
+                                    <div class="col-sm-3"><input class="form-control form-control-user" type="text" id="numero" placeholder="Numero"></div>
+                                    <div class="col-sm-9"><input class="form-control form-control-user" type="text" id="bairro" placeholder="Bairro"></div>
+                                </div>   
+                                <div class="row mb-3">
+                                    <div class="col-sm-9"><input class="form-control form-control-user" type="text" id="cidade" placeholder="Cidade"></div>
+                                    <div class="col-sm-3"><input class="form-control form-control-user" type="text" id="uf" placeholder="UF"></div>
+                                </div>                             
+                                <div class="row mb-3">
+                                    <div class="col-sm-6 mb-3 mb-sm-0"><input class="form-control form-control-user" type="password" id="senha" placeholder="Digite a senha" name="senha"></div>
+                                    <div class="col-sm-6"><input class="form-control form-control-user" type="password" id="senha2" placeholder="Digite novamente a senha" name="senha2"></div>
+                                </div>
+                                <button class="btn btn-primary d-block btn-user w-100" type="button" id="submitRegistro">Criar conta</button>
+                            </form>
+                            <div class="text-center"><a class="small" href="forgot-password.html">Esqueceu a senha?</a></div>
+                            <div class="text-center"><a class="small" href="login.html">Já possui uma conta? Login!</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/theme.js"></script>
+</body>
+
+</html>

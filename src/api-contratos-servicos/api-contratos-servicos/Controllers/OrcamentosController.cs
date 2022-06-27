@@ -7,11 +7,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using api_contratos_servicos.Context;
 using api_contratos_servicos.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace api_contratos_servicos.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
+
+    [Authorize]
     public class OrcamentosController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
@@ -40,6 +44,24 @@ namespace api_contratos_servicos.Controllers
           {
               return NotFound();
           }
+            var orcamento = await _context.Orcamentos.FindAsync(id);
+
+            if (orcamento == null)
+            {
+                return NotFound();
+            }
+
+            return orcamento;
+        }
+
+        // GET: api/Orcamentos/5
+        [HttpGet("usuario/{id}")]
+        public async Task<ActionResult<Orcamento>> GetOrcamentoUsuario(int id)
+        {
+            if (_context.Orcamentos == null)
+            {
+                return NotFound();
+            }
             var orcamento = await _context.Orcamentos.FindAsync(id);
 
             if (orcamento == null)

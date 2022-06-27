@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Orçamento - SERVIÇOS</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&amp;display=swap">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/css/Banner-Heading-Image.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
+    <script type="module" charset="utf8" src="assets/js/orcamento.js"></script>
+    <style>
+        #cadastraRegistro { display: none;}
+        #listaRegistro { display: none;}
+
+        body[page=lista] #listaRegistro { display: block;}
+        body[page=cadastro] #cadastraRegistro { display: block;}
+    </style>
+</head>
+
+<body id="page-top" page="lista">
+    <div id="wrapper">
+        <nav class="navbar navbar-dark align-items-start sidebar sidebar-dark accordion bg-gradient-primary p-0" style="background: #191970;">
+            <div class="container-fluid d-flex flex-column p-0"><a class="navbar-brand d-flex justify-content-center align-items-center sidebar-brand m-0">
+                    <div class="sidebar-brand-icon rotate-n-15"><i class="fas fa-laugh-wink"></i></div>
+                    <div class="sidebar-brand-text mx-3"><span>SERVIÇOS</span></div>
+                </a>
+                <hr class="sidebar-divider my-0">
+                <ul class="navbar-nav text-light" id="accordionSidebar">
+                    <li class="nav-item"></li>
+                    <li class="nav-item"></li>
+                    <li class="nav-item"></li>
+                    <li class="nav-item"><a class="nav-link" href="login.html"><i class="far fa-user-circle"></i><span>Login</span></a></li>
+                    <li class="nav-item"><a class="nav-link" href="register.html"><i class="fas fa-user-circle"></i><span>Cadastra-se</span></a></li>
+                </ul>
+                <div class="text-center d-none d-md-inline"></div>
+            </div>
+        </nav>
+        <div class="d-flex flex-column" id="content-wrapper">
+            <div id="content">
+                <nav class="navbar navbar-light navbar-expand shadow mb-4 topbar static-top" style="background-color: #191970;">
+                </nav>
+                <div id="listaRegistro">
+                    <div class="container-fluid">
+                        <div class="d-sm-flex justify-content-between align-items-center mb-4">
+                        <h3 class="text-primary mb-0">Meus Pedidos Pedidos</h3><button class="btn btn-primary btn-sm d-none d-sm-inline-block" id="btnCadastro"><i class="fa-regular fa-file-circle-plus fa-sm text-white-50 action"></i>&nbsp;Novo Pedido</button>
+                        </div>
+                        
+                        <div class="card shadow">                       
+                            <div class="card-body">
+                                <div class="table-responsive table mt-2" id="divTataTable" role="grid" aria-describedby="dataTable_info">
+                                    <table class="table my-0" id="dataTable">
+                                        <thead>
+                                            <tr>
+                                                <th>Tipo de Serviço</th>
+                                                <th>Data</th>
+                                                <th>Descrição</th>
+                                                <th>Status</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="listaRegistrosBody">                                        
+                                        </tbody>
+                                        <tfoot>
+                                            <tr>
+                                                <td><strong>Tipo de Serviço</strong></td>
+                                                <td><strong>Data</strong></td>
+                                                <td><strong>Descrição</strong></td>
+                                                <td><strong>Status</strong></td>
+                                            </tr>
+                                        </tfoot>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="cadastraRegistro">
+                    <div class="container-fluid">
+                        <div class="d-sm-flex justify-content-between align-items-center mb-4">
+                            <h3 class="text-primary mb-0">Cadastrar novo Pedidos</h3>
+                            </div>
+                             
+                        
+                        <div class="card shadow-lg o-hidden border-0 my-5">
+                            <div class="card-body p-0">
+                                <div class="row">
+                                    <div class="col-lg-6" >
+                                        <div class="p-5">
+                                            <form class="user" method="post">
+                                                <div class="col-sm-12 col-sm-12 ">
+                                                    <select id="tipoServico"class="form-select" aria-label="Default select example">
+                                                        <option selected>Open this select menu</option>
+                                                        <option value="1">One</option>
+                                                    </select>
+                                                </div>
+                                                <br>
+                                                
+                                                <div class="form-group">
+                                                    <label for="exampleFormControlTextarea1">Example textarea</label>
+                                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                                </div>
+                                                <br>
+                                                <div class="col-sm-12 col-sm-12 ">
+                                                    <button class="btn btn-primary  d-sm-inline-block" type="button" id="submitRegistro">Salvar</button>
+                                                    <button class="btn btn-danger d-sm-inline-block" type="button" id="voltarLista">Voltar</button>
+                                                    
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <footer class="bg-primary sticky-footer">
+                <div class="container my-auto">
+                    <div class="text-center my-auto copyright"><span>Copyright © SERVIÇOS 2022</span></div>
+                </div>
+            </footer>
+        </div><a class="border rounded d-inline scroll-to-top" href="#page-top"><i class="fas fa-angle-up"></i></a>
+    </div>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/theme.js"></script>
+</body>
+
+</html>

@@ -9,6 +9,7 @@ using api_contratos_servicos.Context;
 using api_contratos_servicos.Models;
 using api_contratos_servicos.Models.Dto;
 using System.Text;
+using Microsoft.AspNetCore.Authorization;
 
 namespace api_contratos_servicos.Controllers
 {

@@ -7,11 +7,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using api_contratos_servicos.Context;
 using api_contratos_servicos.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace api_contratos_servicos.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ServicosController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
