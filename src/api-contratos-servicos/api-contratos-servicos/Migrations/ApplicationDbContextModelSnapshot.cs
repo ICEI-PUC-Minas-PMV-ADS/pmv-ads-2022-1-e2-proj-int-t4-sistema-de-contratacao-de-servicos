@@ -66,7 +66,7 @@ namespace api_contratos_servicos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Clientes");
+                    b.ToTable("Clientes", (string)null);
                 });
 
             modelBuilder.Entity("api_contratos_servicos.Models.Fornecedor", b =>
@@ -114,7 +114,7 @@ namespace api_contratos_servicos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Fornecedores");
+                    b.ToTable("Fornecedores", (string)null);
                 });
 
             modelBuilder.Entity("api_contratos_servicos.Models.Orcamento", b =>
@@ -147,7 +147,7 @@ namespace api_contratos_servicos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Orçamento");
+                    b.ToTable("Orçamento", (string)null);
                 });
 
             modelBuilder.Entity("api_contratos_servicos.Models.Pedido", b =>
@@ -175,7 +175,7 @@ namespace api_contratos_servicos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Pedidos");
+                    b.ToTable("Pedidos", (string)null);
                 });
 
             modelBuilder.Entity("api_contratos_servicos.Models.Servico", b =>
@@ -212,7 +212,7 @@ namespace api_contratos_servicos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("servico");
+                    b.ToTable("servico", (string)null);
                 });
 
             modelBuilder.Entity("api_contratos_servicos.Models.TipoServico", b =>
@@ -229,7 +229,7 @@ namespace api_contratos_servicos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("TipoServico");
+                    b.ToTable("TipoServico", (string)null);
                 });
 
             modelBuilder.Entity("api_contratos_servicos.Models.Usuario", b =>
@@ -258,7 +258,7 @@ namespace api_contratos_servicos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("usuarios");
+                    b.ToTable("usuarios", (string)null);
                 });
 #pragma warning restore 612, 618
         }
